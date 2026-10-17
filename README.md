@@ -28,7 +28,7 @@ descrevem nenhuma família real.
 │   ├── despesas_familia.csv        # tabela limpa
 │   └── despesas_familia_suja.csv   # versão com problemas, para a etapa de limpeza
 ├── analise.ipynb                   # notebook com a análise
-├── limpeza.py                      # funções de apoio à limpeza
+├── limpeza.ipynb                   # notebook com a limpeza
 └── README.md
 ```
 
