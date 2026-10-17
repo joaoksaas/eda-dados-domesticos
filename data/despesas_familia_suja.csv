@@ -1,0 +1,1458 @@
+﻿id,data,descricao,estabelecimento,categoria,subcategoria,valor,forma_pagamento,tipo_despesa,essencial,responsavel
+1228,2026-04-17,Combustível,Posto Shell,Transporte,Combustível,187.06,Cartão de crédito,Variável,Sim,Pai
+275,06/05/2024,Academia,SmartFit,Saúde,Academia,119.90,Cartão de crédito,Fixa,Não,Mãe
+52,2023-11-12,Pizza,Sushi Kai,Alimentação,Restaurantes e delivery,"R$ 183,94",Cartão de crédito,Variável,N,Mãe
+118,05/01/2024,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,Boleto,Fixa,sim,Casal
+716,21-03-25,Compras de supermercado,Atacadão,Alimentacao,Supermercado,143.30,Cartão de débito,Variável,Sim,Casal
+908,2025-08-23,Padaria,Padaria Pão Quente,alimentação,Padaria,27.21,Pix,Variável,sim,Mãe
+1391,2026-08-20,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,53.04,Pix,Variável,S,Casal
+1096,2026-01-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,574.26,Boleto,Fixa,S,Casal
+1232,20/04/2026,Padaria,Padaria Pão Quente,Alimentação,Padaria,52.58,Pix,Variável,sim,Mãe
+1327,2026-07-07,Pizza,iFood,alimentação,Restaurantes e delivery,119.11,Pix,Variável,N,Casal
+962,2025-10-06,Academia,SmartFit,Saúde,Academia,"129,68",Cartão de crédito,Fixa,Não,Mãe
+590,2024-12-28,Hambúrguer,iFood,ALIMENTAÇÃO,Restaurantes e delivery,188.84,Pix,Variável,N,Casal
+1150,2026-02-20,Tratamento dentário (ortodontia),Odonto Sorriso,Saúde,Consultas e exames,2400.00,Cartão de crédito,Variável,Sim,
+728,2025-04-07,Pizza,Burger House,Alimentacao,Restaurantes e delivery,134.53,Cartão de crédito,Variável,não,Mãe
+1028,2025-11-26,Corrida de aplicativo,Uber,Transporte,Aplicativo,43.71,Cartão de crédito,Variável,Não,Filho 1
+1348,2026-07-19,Combustível,Posto Ipiranga,Transporte,Combustível,195.16,Cartão de débito,Variável,S,Pai
+746,2025-04-16,Combustível,Posto Shell,Transporte,Combustível,236.61,Cartão de débito,Variável,Sim,Pai
+75,03/12/2023,Jogo de videogame,Parque da Cidade,lazer,Entretenimento,285.11,Cartão de crédito,Variável,Não,Casal
+812,2025-06-08,Combustível,Posto Shell,Transporte,Combustivel,172.00,Cartão de crédito,Variável,Sim,Pai
+268,2024-05-02,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,427.98,cartão de crédito,Variável,Sim,Casal
+791,21-05-25,Corrida de aplicativo,Uber,Transporte,APLICATIVO,48.41,Cartão de crédito,Variável,Não,Filho 1
+1310,2026-06-22,Corrida de aplicativo,Uber,Transporte,Aplicativo,32.39,Cartao de credito,Variável,Não,Mãe
+158,2024-02-07,Padaria,Padaria Pão Quente,Alimentação,Padaria,38.33,Cartão de débito,Variável,Sim,pai
+79,2023-12-05,Mensalidade de inglês,Escola de Idiomas,Educação, Cursos ,420.00,Boleto,Fixa,N,Filho 2
+1188,2026-03-15,Conta de energia,Companhia de Energia, Moradia ,ENERGIA,306.49,Débito automático,Variável,Sim,Casal
+388,05/08/2024,Mensalidade escolar,Colégio Horizonte,Educacao,Mensalidade escolar,"R$ 1.490,40",Boleto,Fixa,Sim,Filho 1
+380,2024-07-25,Delivery,Restaurante Sabor,Alimentação,Restaurantes e delivery,92.88,Pix,Variável,nao,Casal
+301,2024-05-23,Sushi,Restaurante Sabor,Alimentação,Restaurantes e delivery,89.50,Cartão de crédito,Variável,Não,Mãe
+194,2024-03-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,445.20,Boleto,Fixa,Não,Filho 2
+1341,2026-07-14,Viagem de férias (passagens/gasolina),Companhia Aérea,VIAGENS,Transporte da viagem,2077.14,Cartão de crédito,Variável,Não,casal
+1331,2026-07-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,586.93,Boleto,Fixa,S,Casal
+1399,2026-08-26,Hambúrguer,Burger House,Alimentação,Restaurantes e delivery,93.79,PIX,Variável,N,Filho 1
+1290,08/06/2026,Internet fibra 500MB,Provedor Net,Comunicação,Internet,134.72,Cartão de crédito,Fixa,Sim,Casal
+880,2025-08-04,Combustível,Posto Ipiranga,Transporte, Combustível ,180.31,Cartão de débito,Variável,Sim,Pai
+338,27/06/2024,Delivery,Restaurante Sabor,Alimentação,Restaurantes e delivery,187.77,Cartão de crédito,Variável,não,Filho 1
+909,25/08/2025,Compras de supermercado,Supermercado Bom Preço,alimentação,SUPERMERCADO,231.10,Pix,Variável,Sim,Casal
+765,2025-05-06,Sushi,Restaurante Sabor,Alimentação,RESTAURANTES E DELIVERY,176.82,pix,Variável,N,Casal
+94,15/12/2023,Conta de energia,Companhia de Energia,Moradia,Energia,262.15,Débito automático,Variável,S,Casal
+994,2025-11-03,Streaming de vídeo,Netflix,Lazer,ASSINATURAS,44.90,Cartão de crédito,Fixa,Não,Casal
+23,16/10/2023,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,172.21,Cartão de crédito,Variável,S,Casal
+1342,2026-07-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartao de credito,Fixa,nao,Casal
+303,2024-05-24,Parque,Parque da Cidade,Lazer,Entretenimento,47.94,Cartão de crédito,Variável,Não,Casal
+947,25/09/2025,Padaria,Padaria Pão Quente,Alimentação,Padaria,51.23,Pix,Variável,sim,Pai
+445,13-09-24,Corrida de aplicativo,Uber,Transporte,Aplicativo,49.79,Cartão de crédito,Variável,nao,Filho 1
+127,2024-01-12,Plano celular pai,Operadora Móvel, Comunicação ,Celular,69.90,Cartão de crédito,Fixa,sim,Pai
+1282,04/06/2026,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,116.01,Pix,Variável,Sim,Mãe
+879,2025-08-04,Compras de supermercado,Mercado do Bairro,ALIMENTAÇÃO,Supermercado,290.00,Pix,Variável,Sim,Casal
+82,2023-12-07,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Filho 1
+607,10/01/2025,Compras de supermercado,Atacadão,Alimentação,Supermercado,70.77,Cartão de crédito,Variável,Sim,Casal
+741,2025-04-14,Corte de cabelo,Barbearia Clássica,Cuidados pessoais,Higiene e beleza,140.85,Pix,Variável,N,Pai
+176,20/02/2024,Parque,Steam,lazer,Entretenimento,202.27,Cartão de crédito,Variável,nao,Filho 2
+283,2024-05-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1450.00,Boleto,Fixa,S,Casal
+678,2025-02-28,Compras de supermercado,Atacadão,Alimentação,supermercado,"R$ 184,45",pix,Variável,Sim,Casal
+1238,2026-05-02,Corrida de aplicativo,Uber,TRANSPORTE,Aplicativo,30.39,Cartão de crédito,Variável,Não,Filho 1
+1133,09/02/2026,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,95.57,Pix,Variável,Sim,Casal
+792,21-05-25,Medicamentos,Farmácia,Saúde,Farmácia,263.79,Pix,Variável,S,Filho 2
+104,2023-12-20,Gás de cozinha/encanado,Distribuidora de Gás,moradia,Gás,47.33,Pix,Variável,Sim,Casal
+1153,23/02/2026,Padaria,Padaria Pão Quente,Alimentação,Padaria,"R$ 70,75",Pix,Variável,S,Mãe
+333,2024-06-19,Compras de supermercado,Atacadão,Alimentação,Supermercado,217.54,Cartão de débito,Variável,Sim,Casal
+1414,2026-09-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,"R$ 134,72",Cartão de crédito,Fixa,sim,Casal
+284,10/05/2024,Condomínio,Condomínio Residencial,Moradia,Condomínio,533.53,Boleto,Fixa,sim,casal
+783,2025-05-15,Combustível,Posto Shell,Transporte,Combustível,192.65,Cartão de débito,Variável,Sim,Pai
+517,10-11-24,Condomínio,Condomínio Residencial,Moradia,Condomínio,545.50,Boleto,Fixa,Sim,Casal
+480,2024-10-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,S,Pai
+142,2024-01-26,Corrida de aplicativo,Uber,Transporte,Aplicativo,42.03,Cartão de crédito,Variável,não,Filho 1
+428,2024-09-03,Corrida de aplicativo,Uber,Transporte,Aplicativo,"R$ 46,42",Cartão de crédito,Variável,nao,Filho 1
+822,2025-06-15,Conta de energia,Companhia de Energia,Moradia,Energia,225.31,Débito automático,Variável,sim,Casal
+851,12-07-25,Plano celular mãe,Operadora Móvel,Comunicação,Celular,"73,40",Cartão de crédito,Fixa,S,Mãe
+1162,2026-02-28,Padaria,Padaria Pão Quente,Alimentação,Padaria,"R$ 49,49",Cartão de débito,Variável,sim,Pai
+993,2025-11-02,Corrida de aplicativo,Uber,Transporte,Aplicativo,25.59,Cartão de crédito,Variável,Não,Filho 1
+920,2025-09-06,Academia,SmartFit,Saúde,Academia,124.70,cartão de crédito,Fixa,N,Mãe
+1353,2026-07-23,Sushi,Restaurante Sabor,Alimentação,Restaurantes e delivery,94.89,Cartão de crédito,Variável,Não,Pai
+1431,2026-09-20,Combustível,Posto Ipiranga,Transporte,Combustível,"177,99",Cartão de crédito,Variável,Sim,Pai
+62,2023-11-19,Calçados,C&A,Vestuário,Roupas e calçados,133.10,Cartão de crédito,Variável,não,Pai
+807,06/06/2025,Sushi,Restaurante Sabor,Alimentação,Restaurantes e delivery,"130,96",Cartão de crédito,Variável,Não,Casal
+434,2024-09-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,"445,20",Boleto,Fixa,nao,Filho 2
+196,07/03/2024,Restaurante,Burger House,Alimentacao,Restaurantes e delivery,95.68,Pix,Variável,não,Mãe
+413,2024-08-21,Combustível,Posto Shell,Transporte,Combustível,165.88,Cartão de crédito,Variável,Sim,
+13,2023-10-08,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,194.40,Cartão de crédito,Variável,sim,Filho 2
+237,2024-04-07,Combustível,Posto Shell,Transporte,Combustível,211.22,Cartão de débito,Variável,S,Pai
+59,18/11/2023,Conta de água,Companhia de Saneamento,Moradia,Água,107.11,,Variável,sim,Casal
+510,2024-11-05,Restaurante,iFood,Alimentação,Restaurantes e delivery,118.53,Pix,Variável,Não,Mãe
+954,2025-10-01,Seguro do carro (parcela),Porto Seguro,transporte,Seguro auto,314.21,Cartão de crédito,Fixa,Sim,Pai
+123,2024-01-08,Internet fibra 500MB,Provedor Net,Comunicação,INTERNET,119.90,Cartão de crédito,Fixa,S,Casal
+1069,2025-12-25,Ceia e festa de fim de ano,Supermercado Bom Preço,Alimentacao,Datas especiais,696.71,Cartão de crédito,Variável,Não,Casal
+1004,08-11-25,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,205.70,Pix,Variável,S,Casal
+1211,2026-04-07,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,"R$ 235,30",Pix,Variável,S,Casal
+1014,15/11/2025,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,192.12,Cartão de crédito,Variável,sim,Filho 2
+715,2025-03-20,Roupas infantis,C&A,Vestuário,Roupas e calçados,252.44,Cartão de crédito,Variável,Não,Filho 1
+1208,05/04/2026,Mensalidade de inglês,Escola de Idiomas, Educação ,Cursos,500.23,Boleto,Fixa,N,Filho 2
+160,08-02-24,Pizza,Pizzaria Napoli,Alimentação,Restaurantes e delivery,49.27,Cartão de crédito,Variável,Não,Filho 1
+1050,2025-12-11,Feira / hortifrúti,Feira Livre,Alimentação,HORTIFRUTI,"R$ 118,01",Pix,Variável,Sim,Mãe
+1160,2026-02-27,Combustível,Posto Shell,Transporte,Combustível,194.90,Cartão de crédito,Variável,Sim,Pai
+569,2024-12-13,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,129.95,Pix,Variável,sim,casal
+906,21-08-25,Corrida de aplicativo,Uber,Transporte,Aplicativo,51.73,cartão de crédito,Variável,não,Mãe
+936,2025-09-14,Combustível,Posto Shell,Transporte, Combustível ,"207,66",Cartão de débito,Variável,Sim,Pai
+575,18/12/2024,Passeio em família,Steam,Lazer,Entretenimento,72.55,Cartão de crédito,Variável,N,Filho 1
+902,2025-08-18,Hambúrguer,iFood,Alimentação,Restaurantes e delivery,"127,74",Pix,Variável,Não,Pai
+443,2024-09-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,S,Pai
+416,24-08-24,Padaria,Padaria Pão Quente,Alimentação,Padaria,38.93,Pix,Variável,Sim,Pai
+1066,2025-12-22,Cosméticos,Drogaria,Cuidados pessoais,Higiene e beleza,127.90,Cartão de débito,Variável,Não,Pai
+438,2024-09-08,Compras de supermercado,Supermercado Bom Preço,ALIMENTAÇÃO,Supermercado,193.60,Pix,Variável,Sim,Casal
+130,2024-01-14,Pizza,iFood,Alimentação,Restaurantes e delivery,90.70,Cartão de crédito,Variável,N,Mãe
+38,2023-11-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,"39,90",Cartão de crédito,Fixa,Não,Casal
+479,2024-10-11,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,99.03,Pix,Variável,Sim,Mãe
+815,2025-06-10,Condomínio,Condomínio Residencial, Moradia ,Condomínio,559.63,Boleto,Fixa,Sim,Casal
+102,2023-12-19,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,151.65,Pix,Variável,Sim,Casal
+1082,2026-01-04,Padaria,Padaria Pão Quente,Alimentação,Padaria,27.15,,Variável,Sim,Mãe
+667,2025-02-18,Conta de água,Companhia de Saneamento,Moradia,Água,128.40,,Variável,Sim,Casal
+422,2024-08-28,Restaurante,Sushi Kai,Alimentação,Restaurantes e delivery,"R$ 101,71",Pix,Variável,Não,Casal
+551,03/12/2024,Corrida de aplicativo,Uber,Transporte,Aplicativo,28.16,Cartão de crédito,Variável,não,Mãe
+857,2025-07-15,Conta de energia,Companhia de Energia,Moradia,Energia,195.96,Débito automático,Variável,Sim,Casal
+132,2024-01-15,Conta de energia,Companhia de Energia,Moradia,Energia,283.12,Débito automático,Variável,S,Casal
+617,2025-01-13,Hambúrguer,Pizzaria Napoli,Alimentação,Restaurantes e delivery,123.59,Pix,Variável,nao,Mãe
+878,2025-08-04,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,133.90,Pix,Variável,sim,Mãe
+300,23/05/2024,Medicamentos,Farmácia,Saúde,Farmácia,164.00,Pix,Variável,S,Pai
+1311,23-06-26,Salão,Drogaria,Cuidados pessoais,Higiene e beleza,134.91,Pix,Variável,nao,Pai
+519,2024-11-11,Roupas,Centauro,Vestuário,Roupas e calçados,325.05,Cartão de crédito,Variável,N,Mãe
+239,2024-04-08,Padaria,Padaria Pão Quente,Alimentação,Padaria,54.46,Cartão de débito,Variável,Sim,Mãe
+409,2024-08-18,Notebook novo (parcela 6/6),Kabum,Compras,Eletrônicos e eletrodomésticos,650.00,Cartao de credito,Variável,Não,Filho 1
+432,2024-09-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,Boleto,Fixa,Sim,Casal
+354,06/07/2024,Corrida de aplicativo,Uber, Transporte ,Aplicativo,17.25,Cartão de crédito,Variável,Não,Filho 1
+1258,2026-05-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,"R$ 77,06",Cartão de crédito,Fixa,Sim,Pai
+1024,20/11/2025,Combustível,Posto Shell,Transporte,Combustível,192.03,Cartão de crédito,Variável,Sim,Pai
+258,19/04/2024,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,"R$ 176,73",Cartão de crédito,Variável,sim,Filho 2
+91,2023-12-13,Delivery,Restaurante Sabor,Alimentação,Restaurantes e delivery,109.29,pix,Variável,Não,Mãe
+1085,2026-01-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2425.50,Boleto,Fixa,Sim,Casal
+1437,2026-09-26,Padaria,Padaria Pão Quente,Alimentação,Padaria,42.03,Pix,Variável,Sim,Pai
+1214,,Vacinas do pet,Clínica Veterinária,Pets,Veterinario,412.34,Pix,Variável,sim,Filho 2
+1427,17/09/2026,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,166.01,Cartão de crédito,Variável,Sim,Filho 2
+392,08-08-24,Internet fibra 500MB,Provedor Net,Comunicacao,Internet,119.90,Cartão de crédito,Fixa,Sim,Casal
+146,2024-02-01,Medicamentos,Farmácia,saúde,Farmácia,70.84,Pix,Variável,sim,Mãe
+850,2025-07-12,Viagem de férias (passagens/gasolina),Companhia Aérea,Viagens,Transporte da viagem,2555.88,Cartão de crédito,Variável,não,Casal
+398,2024-08-10,Aniversário Filho 2,Buffet Infantil / Mercado,Presentes,Aniversários,590.02,Cartão de crédito,Variável,nao,Filho 2
+112,2024-01-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,285.00,Cartão de crédito,Fixa,Sim,Pai
+1360,2026-07-30,Diarista (2x no mês),Diarista Maria,moradia,Serviços domésticos,352.80,Pix,Fixa,não,Casal
+103,2023-12-20,Presentes de Natal,Shopping / Lojas online,Presentes,Natal,1371.87,Cartão de crédito,Variável,nao,Casal
+280,2024-05-09,Combustível,Posto Ipiranga,Transporte,Combustível,158.87,Cartão de crédito,Variável,S,Pai
+109,2023-12-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,320.00,Pix,Fixa,N,Casal
+244,11/04/2024,Hambúrguer,Sushi Kai,Alimentação,Restaurantes e delivery,"149,94",PIX,Variável,Não,Casal
+1439,2026-09-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,"R$ 352,80",Pix,Fixa,Não,Casal
+385,03/08/2024,Streaming de vídeo,Netflix,lazer,Assinaturas,39.90,Cartão de crédito,Fixa,N,Casal
+309,2024-06-05,Aluguel,Imobiliária Central,moradia,Aluguel,2200.00,Boleto,Fixa,Sim,Casal
+1016,2025-11-16,Corrida de aplicativo,Uber,TRANSPORTE,Aplicativo,"21,58",cartão de crédito,Variável,Não,Mãe
+1298,2026-06-13,Hambúrguer,Pizzaria Napoli,alimentação,Restaurantes e delivery,123.30,Pix,Variável,N,Filho 1
+1213,2026-04-08,Corrida de aplicativo,Uber,Transporte,Aplicativo,40.56,Cartão de crédito,Variável,Não,Filho 1
+1080,2026-01-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,Cartão de crédito,Fixa,Não,Casal
+937,14/09/2025,Corrida de aplicativo,Uber,Transporte,Aplicativo,"R$ 29,58",Cartão de crédito,Variável,N,Mãe
+787,18/05/2025,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,"83,11",Pix,Variável,Sim,Mãe
+896,2025-08-13,Conserto mecânico,Oficina Auto Center,Transporte,Manutenção do carro,"R$ 926,19",Cartão de crédito,Variável,Sim,Pai
+1397,2026-08-24,Padaria,Padaria Pão Quente,Alimentação,Padaria,58.38,Cartão de débito,Variável,sim,Mãe
+1116,2026-01-28,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,91.50,Pix,Variável,S,Casal
+1267,2026-05-19,Padaria,Padaria Pão Quente,alimentação,Padaria,57.28,Pix,Variável,Sim,Pai
+618,14/01/2025,Streaming de filmes e séries,Max,Lazer,assinaturas,34.90,cartão de crédito,Fixa,não,Casal
+1154,2026-02-24,Corte de cabelo,Drogaria,Cuidados pessoais,Higiene e beleza,"R$ 85,42",pix,Variável,N,Mãe
+395,09/08/2024,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,144.70,Pix,Variável,Sim,Casal
+554,05/12/2024,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,445.20,Boleto,Fixa,Não,Filho 2
+231,2024-04-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,39.90,Cartão de crédito,Fixa,Não,Casal
+604,09/01/2025,Delivery,Burger House,Alimentação,Restaurantes e delivery,114.51,Pix,Variável,não,Filho 1
+390,2024-08-06,Academia,SmartFit,Saúde,Academia,119.90,cartão de crédito,Fixa,Não,Mãe
+754,24/04/2025,Corrida de aplicativo,Uber,Transporte,Aplicativo,32.36,Cartão de crédito,Variável,nao,
+687,2025-03-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,471.91,boleto,Fixa,nao,Filho 2
+264,2024-04-27,Padaria,Padaria Pão Quente,Alimentação, Padaria ,63.31,Cartão de débito,Variável,S,Mãe
+698,11/03/2025,Padaria,Padaria Pão Quente,Alimentação,PADARIA,28.65,Pix,Variável,Sim,Mãe
+619,14/01/2025,Combustível,Posto Ipiranga,TRANSPORTE,Combustível,"R$ 225,31",Cartao de debito,Variável,S,Pai
+546,2024-12-01,Cinema,Cinemark,Lazer,Entretenimento,"R$ 112,17",Cartão de crédito,Variável,Não,Casal
+297,2024-05-20,Corrida de aplicativo,Uber,Transporte,Aplicativo,"R$ 40,49",Cartão de crédito,Variável,não,Filho 1
+1261,2026-05-13,Cinema,Steam,Lazer,Entretenimento,"274,59",Cartão de crédito,Variável,Não,Filho 2
+862,2025-07-16,Padaria,Padaria Pão Quente,Alimentação,Padaria,"R$ 31,67",Pix,Variável,S,Mãe
+1438,2026-09-27,Compras de supermercado,Atacadão,Alimentação,Supermercado,218.13,Cartão de crédito,Variável,Sim,Casal
+518,11/11/2024,Combustível,Posto Ipiranga,Transporte,Combustível,197.36,Cartão de crédito,Variável,S,Pai
+530,2024-11-15,Delivery,iFood,Alimentação,Restaurantes e delivery,103.30,pix,Variável,não,Casal
+170,2024-02-15,IPVA 2024 (2/3),Detran, Transporte ,IPVA,800.00,Boleto,Fixa,Sim,Pai
+1284,2026-06-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1738.40,Boleto,Fixa,Sim,Filho 1
+454,20/09/2024,Corrida de aplicativo,Uber,Transporte, Aplicativo ,19.83,Cartão de crédito,Variável,Não,Mãe
+1094,10/01/2026,Compras de supermercado,Supermercado Bom Preço,Alimentação, Supermercado ,188.89,Cartão de débito,Variável,S,Casal
+1429,18/09/2026,Jogo de videogame,Sympla,Lazer,Entretenimento,248.97,Cartão de crédito,Variável,Não,Filho 1
+750,2025-04-19,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,105.50,Cartão de débito,Variável,Sim,Casal
+992,2025-11-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,314.21,Cartão de crédito,Fixa,Sim,Pai
+1320,2026-07-04,Combustível,Posto Ipiranga,Transporte,Combustível,"R$ 186,16",Cartão de débito,Variável,Sim,Pai
+50,2023-11-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1450.00,Boleto,Fixa,Sim,Casal
+1333,2026-07-10,Padaria,Padaria Pão Quente,Alimentação,Padaria,72.00,Cartão de débito,Variável,Sim,Mãe
+148,2024-02-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,39.90,Cartão de crédito,Fixa,Não,Casal
+182,2024-02-25,Combustível,Posto Shell,Transporte,Combustível,"R$ 165,98",Cartão de débito,Variável,sim,Pai
+1001,06-11-25,Hambúrguer,Pizzaria Napoli,Alimentação,Restaurantes e delivery,130.53,,Variável,Não,Pai
+633,2025-01-23,Padaria,Padaria Pão Quente,Alimentação,Padaria,57.57,Cartão de débito,Variável,Sim,Pai
+692,2025-03-08,Padaria,Padaria Pão Quente,Alimentação,Padaria,29.92,Cartão de débito,Variável,Sim,Pai
+1180,10/03/2026,Condomínio,Condomínio Residencial,Moradia,Condomínio,578.36,Boleto,Fixa,Sim,Casal
+41,2023-11-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,Boleto,Fixa,Sim,Casal
+924,2025-09-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,127.09,Cartao de credito,Fixa,Sim,Casal
+389,2024-08-05,Aluguel,Imobiliária Central,Moradia,ALUGUEL,2200.00,Boleto,Fixa,Sim,Casal
+152,2024-02-05,Combustível,Posto Ipiranga,transporte,Combustível,"152,20",Cartão de crédito,Variável,Sim,Pai
+855,13/07/2025,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,167.06,Cartão de crédito,Variável,sim,Filho 2
+799,01/06/2025,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,"299,25",Cartão de crédito,Fixa,S,Pai
+1073,2025-12-27,Corrida de aplicativo,Uber,transporte,Aplicativo,23.33,Cartão de crédito,Variável,Não,Filho 1
+356,07/07/2024,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,212.58,Cartão de débito,Variável,sim,Casal
+704,2025-03-13,Compras de supermercado,Atacadão,Alimentação,Supermercado,193.40,Cartão de débito,Variável,sim,Casal
+969,2025-10-11,Medicamentos,Farmácia,Saúde, Farmácia ,190.79,Cartão de crédito,Variável,Sim,Mãe
+1205,2026-04-04,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,149.13,Pix,Variável,Sim,Mãe
+922,07/09/2025,Streaming de música,Spotify,Lazer,Assinaturas,40.90,Cartão de crédito,Fixa,Não,Filho 1
+1173,2026-03-06,Academia,SmartFit,Saúde,Academia,129.68,Cartão de crédito,Fixa,N,Mãe
+1134,2026-02-10,Plano de saúde família,Unimed, Saúde ,Plano de saúde,"1722,75",Boleto,Fixa,sim,Casal
+1256,2026-05-11,Combustível,Posto Ipiranga,transporte,Combustível,184.75,Cartão de débito,Variável,Sim,Pai
+259,2024-04-20,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,46.33,Pix,Variável,Sim,Casal
+770,2025-05-08,Delivery,Burger House,Alimentação,Restaurantes e delivery,107.88,Pix,Variável,nao,Mãe
+1170,05/03/2026,Padaria,Padaria Pão Quente,alimentação,Padaria,"R$ 32,40",Cartão de débito,Variável,Sim,Mãe
+265,2024-04-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,320.00,Pix,Fixa,N,Casal
+342,28/06/2024,Show/ingressos,Sympla,Lazer,Entretenimento,194.30,CARTÃO DE CRÉDITO,Variável,Não,Casal
+823,17/06/2025,Exames laboratoriais,Clínica Vida,Saúde,Consultas e exames,405.42,Pix,Variável,sim,Filho 2
+1101,2026-01-12,Padaria,Padaria Pão Quente,Alimentação,Padaria,69.87,Cartão de débito,Variável,S,Pai
+225,2024-03-25,Padaria,Padaria Pão Quente,Alimentação,Padaria,37.00,Cartão de débito,Variável,Sim,Pai
+86,2023-12-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1450.00,Boleto,Fixa,S,Casal
+867,2025-07-24,Combustível,Posto Ipiranga,Transporte,Combustível,200.00,Cartão de crédito,Variável,Sim,Pai
+895,2025-08-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,Sim,Mãe
+54,13/11/2023,Compras de supermercado,Supermercado Bom Preço,alimentação,Supermercado,74.82,Cartão de débito,Variável,S,Casal
+494,2024-10-20,Padaria,Padaria Pão Quente,Alimentação,Padaria,34.16,Pix,Variável,Sim,Pai
+110,2024-01-01,Padaria,Padaria Pão Quente,alimentação,Padaria,34.05,Pix,Variável,S,Mãe
+701,2025-03-12,Combustível,Posto Shell,Transporte,Combustível,161.79,Cartão de crédito,Variável,sim,Pai
+935,2025-09-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,sim,Pai
+1000,2025-11-06,Academia,SmartFit,Saúde,Academia,129.68,Cartão de crédito,Fixa,N,mãe
+61,18/11/2023,Combustível,Posto Shell,Transporte,combustível,192.78,Cartão de débito,Variável,sim,Pai
+696,2025-03-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,553.45,Boleto,Fixa,Sim,Casal
+956,2025-10-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,"44,90",Cartão de crédito,Fixa,Não,Casal
+1252,08/05/2026,Internet fibra 500MB,Provedor Net,Comunicação,Internet,134.72,Cartão de crédito,Fixa,Sim,Casal
+1255,2026-05-11,Roupas infantis,Loja Renner,Vestuário,Roupas e calçados,122.89,Cartão de crédito,Variável,Não,Mãe
+293,2024-05-18,Conta de água,Companhia de Saneamento,Moradia,Água,114.71,Débito automático,Variável,Sim,Casal
+1043,2025-12-07,Streaming de música,Spotify,Lazer,Assinaturas,40.90,Cartão de crédito,Fixa,não,Filho 1
+177,2024-02-20,Padaria,Padaria Pão Quente,Alimentação,Padaria,45.42,Cartão de débito,Variável,sim,Pai
+347,2024-07-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,39.90,Cartão de crédito,Fixa,Não,Casal
+725,2025-04-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,"R$ 471,91",Boleto,Fixa,Não,Filho 2
+695,2025-03-10,Restaurante,Sushi Kai,Alimentação,Restaurantes e delivery,184.06,Pix,Variável,Não,Mãe
+729,2025-04-07,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,"162,83",Cartão de crédito,Variável,Sim,Casal
+982,19/10/2025,Combustível,Posto Ipiranga,Transporte,Combustível,"218,76",Cartão de débito,Variável,Sim,Pai
+905,20/08/2025,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,48.54,Pix,Variável,Sim,Casal
+1303,2026-06-17,Combustível,Posto Ipiranga,Transporte,Combustível,209.74,Cartão de crédito,Variável,Sim,Pai
+447,14/09/2024,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,"R$ 97,00",Cartão de crédito,Variável,sim,Casal
+832,2025-06-28,Compras de supermercado,Supermercado Bom Preço,ALIMENTAÇÃO,Supermercado,114.01,Pix,Variável,Sim,Casal
+656,2025-02-12,Plano celular pai,Operadora Móvel,Comunicação,celular,"R$ 73,40",Cartão de crédito,Fixa,sim,Pai
+81,2023-12-06,Academia,SmartFit,Saúde,Academia,119.90,Cartão de crédito,Fixa,N,Mãe
+901,2025-08-15,Conta de energia,Companhia de Energia,Moradia,Energia,"215,23",Débito automático,Variável,Sim,Casal
+429,2024-09-03,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,205.35,Cartão de débito,Variável,S,
+504,2024-11-04,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,292.09,Cartão de crédito,Variável,Sim,Casal
+948,2025-09-25,Compras de supermercado,Atacadão,Alimentação,Supermercado,141.40,Pix,Variável,S,Casal
+581,22/12/2024,Sushi,Restaurante Sabor,Alimentação,Restaurantes e delivery,"R$ 153,22",Pix,Variável,N,Filho 1
+642,05/02/2025,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,Boleto,Fixa,Sim,Casal
+154,06-02-24,Academia,SmartFit,Saúde,Academia,119.90,Cartão de crédito,Fixa,Não,Mãe
+858,2025-07-15,Hambúrguer,iFood,Alimentação,Restaurantes e delivery,172.24,Cartão de crédito,Variável,Não,Casal
+262,2024-04-24,Acessórios,Riachuelo,Vestuário,Roupas e calçados,"378,09",Cartão de crédito,Variável,N,Filho 1
+1189,2026-03-15,IPVA 2026 (3/3),Detran,Transporte,IPVA,865.28,Boleto,Fixa,S,Pai
+775,2025-05-10,Combustível,Posto Ipiranga,Transporte,Combustível,206.79,Cartão de débito,Variável,Sim,Pai
+1382,2026-08-14,Corrida de aplicativo,Uber,Transporte,Aplicativo,"53,89",Cartão de crédito,Variável,nao,Filho 1
+415,2024-08-22,Corte de cabelo,Barbearia Clássica,Cuidados pessoais,Higiene e beleza,228.08,Cartão de débito,Variável,Não,Pai
+266,01/05/2024,Corte de cabelo,Barbearia Clássica,CUIDADOS PESSOAIS,Higiene e beleza,"44,37",Pix,Variável,Não,Mãe
+985,2025-10-22,Padaria,Padaria Pão Quente,Alimentação,Padaria,27.57,Cartão de débito,Variável,sim,Mãe
+1270,2026-05-21,Show/ingressos,Sympla,Lazer,Entretenimento,176.28,Cartão de crédito,Variável,nao,Casal
+472,2024-10-07,Roupas infantis,C&A,Vestuário,Roupas e calçados,"404,40",Cartão de crédito,Variável,Não,Filho 1
+849,12/07/2025,Passeios e alimentação na viagem,Diversos, Viagens ,Passeios,1334.32,Cartão de crédito,Variável,não,Casal
+1206,2026-04-05,Mensalidade escolar,Colégio Horizonte, Educação ,Mensalidade escolar,1738.40,Boleto,Fixa,Sim,Filho 1
+491,2024-10-18,Conta de água,Companhia de Saneamento,Moradia,Água,"113,34",Débito automático,Variável,Sim,Casal
+706,15/03/2025,IPVA 2025 (3/3),Detran,Transporte,IPVA,832.00,Boleto,Fixa,Sim,Pai
+847,2025-07-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,Sim,Casal
+781,2025-05-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,N,Casal
+805,2025-06-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,471.91,Boleto,Fixa,nao,Filho2
+308,04-06-24,Compras de supermercado,Atacadão,Alimentação,Supermercado,524.69,Cartão de crédito,Variável,Sim,Casal
+245,2024-04-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,"R$ 69,90",Cartão de crédito,Fixa,Sim,Pai
+1424,2026-09-15,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,227.80,Cartão de débito,Variável,Sim,casal
+1299,2026-06-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,não,Casal
+591,2024-12-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,336.00,Pix,Fixa,nao,Casal
+652,2025-02-09,Corrida de aplicativo,Uber,Transporte,Aplicativo,21.93,Cartão de crédito,Variável,Não,Filho 1
+904,2025-08-20,Compras de supermercado,Mercado do Bairro, Alimentação ,Supermercado,159.86,Pix,Variável,Sim,Casal
+1012,2025-11-12,Restaurante,Sushi Kai,ALIMENTAÇÃO,Restaurantes e delivery,"R$ 76,76",Pix,Variável,não,Casal
+337,2024-06-25,Padaria,Padaria Pão Quente,Alimentação,Padaria,21.04,Cartão de débito,Variável,Sim,Pai
+1210,07/04/2026,Streaming de música,Spotify,Lazer,Assinaturas,"R$ 40,90",Cartão de crédito,Fixa,não,Filho 1
+313,2024-06-07,Compras de supermercado,Supermercado Bom Preço,alimentação,Supermercado,116.71,Cartão de crédito,Variável,Sim,Casal
+507,2024-11-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,"R$ 445,20",Boleto,Fixa,Não,Filho 2
+410,2024-08-19,Corrida de aplicativo,Uber,Transporte,Aplicativo,40.71,Cartão de crédito,Variável,não,Mãe
+57,2023-11-16,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Racao,166.74,Cartão de crédito,Variável,Sim,Filho 2
+405,2024-08-15,Conta de energia,Companhia de Energia,Moradia,Energia,197.86,Débito automático,Variável,Sim,Casal
+914,03/09/2025,Compras de supermercado,Supermercado Bom Preço,alimentação,Supermercado,"539,55",Pix,Variável,Sim,Casal
+1412,07/09/2026,Streaming de música,Spotify,LAZER,Assinaturas,40.90,Cartão de crédito,Fixa,Não,Filho 1
+1380,12/08/2026,Plano celular mãe,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,Sim,Mae
+224,2024-03-25,Aniversário Filho 1,Buffet Infantil / Mercado,Presentes,Aniversários,1405.97,Cartão de crédito,Variável,Não,Filho 1
+386,2024-08-04,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,138.68,Pix,Variável,Sim,mãe
+33,2023-10-28,Pizza,iFood,Alimentação,Restaurantes e delivery,100.12,Pix,Variável,Não,mãe
+345,2024-06-30,Diarista (2x no mês),Diarista Maria,Moradia,Servicos domesticos,320.00,pix,Fixa,Não,Casal
+469,2024-10-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1490.40,Boleto,Fixa,Sim,Filho 1
+208,13/03/2024,Sushi,Sushi Kai,Alimentação,Restaurantes e delivery,143.75,Cartão de crédito,Variável,nao,Filho 1
+800,02/06/2025,Acessórios,Centauro,Vestuário,Roupas e calçados,186.98,Cartão de crédito,Variável,nao,Mãe
+1029,2025-11-26,Padaria,Padaria Pão Quente,Alimentação,Padaria,60.75,Pix,Variável,S,Pai
+198,2024-03-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,119.90,Cartão de crédito,Fixa,Sim,Casal
+779,2025-05-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,Sim,Pai
+361,2024-07-09,Cinema,Steam,Lazer,Entretenimento,283.53,Cartao de credito,Variável,Não,Filho 2
+918,2025-09-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1609.63,Boleto,Fixa,Sim,filho 1
+641,2025-02-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1609.63,Boleto,Fixa,Sim,Filho 1
+1355,24/07/2026,Combustível,Posto Ipiranga,Transporte,Combustível,"R$ 172,84",Cartão de crédito,Variável,sim,Pai
+470,06/10/2024,Academia,SmartFit,saúde,Academia,124.70,Cartão de crédito,Fixa,não,Mãe
+223,25-03-24,Padaria,Padaria Pão Quente,Alimentação,Padaria,46.29,,Variável,Sim,Mãe
+513,2024-11-07,Streaming de música,Spotify, Lazer ,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Filho 1
+360,09/07/2024,Salão,Salão Beleza,Cuidados pessoais,Higiene e beleza,"R$ 78,39",Cartão de débito,Variável,Não,Mãe
+10,2023-10-07,Padaria,Padaria Pão Quente,Alimentação,Padaria,62.99,Cartão de débito,Variável,Sim,Pai
+457,2024-09-28,Combustível,Posto Shell,Transporte,Combustível,211.48,Cartão de débito,Variável,Sim,Pai
+616,2025-01-13,Higiene pessoal,Barbearia Clássica,Cuidados pessoais,higiene e beleza,70.23,Cartão de débito,Variável,Não,Mãe
+723,2025-04-03,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,409.11,PIX,Variável,Sim,Casal
+734,10-04-25,Condomínio,Condomínio Residencial,Moradia,Condomínio,555.53,Boleto,Fixa,Sim,Casal
+721,2025-04-01,Seguro do carro (parcela),Porto Seguro, Transporte ,Seguro auto,"R$ 299,25",Cartão de crédito,Fixa,Sim,Pai
+1099,2026-01-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,Sim,Pai
+473,2024-10-07,Corrida de aplicativo,Uber,Transporte,Aplicativo,41.46,Cartão de crédito,Variável,Não,Mae
+1289,2026-06-08,Combustível,Posto Shell,Transporte,Combustível,171.35,Cartão de crédito,Variável,S,Pai
+147,2024-02-01,Seguro do carro (parcela),Porto Seguro, Transporte ,Seguro auto,285.00,Cartão de crédito,Fixa,sim,Pai
+135,2024-01-18,Conta de água,Companhia de Saneamento,Moradia,Agua,108.32,Débito automático,Variável,sim,Casal
+871,2025-07-28,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,185.14,Cartão de crédito,Variável,S,Casal
+456,2024-09-28,Medicamentos,Farmácia,Saúde,Farmácia,231.39,Cartão de débito,Variável,Sim,Mãe
+254,2024-04-18,Notebook novo (parcela 2/6),Kabum,Compras,Eletrônicos e eletrodomésticos,650.00,Cartão de crédito,Variável,Não,Filho 1
+1202,03/04/2026,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,544.49,Cartão de débito,Variável,Sim,Casal
+681,2025-03-02,Veterinário,Clínica Veterinária,Pets,Veterinário,346.42,Pix,Variável,sim,Filho 2
+784,15/05/2025,Conta de energia,Companhia de Energia,Moradia,Energia,242.56,Débito automático,Variável,Sim,Casal
+541,2024-11-23,Higiene pessoal,Salão Beleza,Cuidados pessoais,Higiene e beleza,156.91,CARTÃO DE DÉBITO,Variável,nao,
+1358,2026-07-28,Compras de supermercado,Atacadão,alimentação,Supermercado,71.38,Cartão de crédito,Variável,sim,Casal
+951,28/09/2025,Corrida de aplicativo,Uber,Transporte,Aplicativo,"R$ 29,49",Cartão de crédito,Variável,nao,Filho 1
+1433,2026-09-21,Compras de supermercado,Supermercado Bom Preço,Alimentação,supermercado,138.02,Cartão de débito,Variável,S,Casal
+1009,2025-11-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,77.06,CARTÃO DE CRÉDITO,Fixa,S,Mãe
+440,2024-09-09,Corrida de aplicativo,Uber,Transporte,Aplicativo,36.68,Cartão de crédito,Variável,N,Filho 1
+373,2024-07-18,Notebook novo (parcela 5/6),Kabum,Compras,Eletrônicos e eletrodomésticos,650.00,Cartão de crédito,Variável,N,Filho 1
+319,10/06/2024,Condomínio,Condomínio Residencial,MORADIA,Condomínio,535.53,Boleto,Fixa,Sim,Casal
+612,2025-01-11,Combustível,Posto Shell,Transporte,Combustível,184.01,Cartão de débito,Variável,sim,Pai
+93,14/12/2023,Sushi,Restaurante Sabor,Alimentação,Restaurantes e delivery,"R$ 88,33",Pix,Variável,Não,Pai
+95,2023-12-16,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,103.52,Cartão de débito,Variável,sim,Casal
+881,2025-08-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,Boleto,Fixa,S,Casal
+1367,05/08/2026,Mensalidade escolar,Colégio Horizonte,educação,Mensalidade escolar,1738.40,Boleto,Fixa,sim,Filho 1
+122,2024-01-08,Compras de supermercado,Atacadão,Alimentação,Supermercado,"212,57",Cartão de débito,Variável,sim,Casal
+302,23/05/2024,Corrida de aplicativo,Uber,Transporte,Aplicativo,28.41,Cartão de crédito,Variável,Não,Filho 1
+369,2024-07-14,Combustível,Posto Shell,Transporte,Combustível,197.53,Cartão de crédito,Variável,Sim,Pai
+1053,2025-12-14,Veterinário,Clínica Veterinária,Pets,Veterinário,"R$ 460,53",pix,Variável,sim,
+1229,2026-04-18,Conta de água,Companhia de Saneamento,Moradia,Agua,130.50,Débito automático,Variável,Sim,Casal
+552,2024-12-04,Roupas,C&A,vestuário,Roupas e calçados,417.65,Cartão de crédito,Variável,nao,Filho 2
+1177,2026-03-07,Combustível,Posto Ipiranga,Transporte,Combustível,191.50,Cartão de crédito,Variável,Sim,Pai
+462,03/10/2024,Streaming de vídeo,Netflix,Lazer,Assinaturas,"R$ 39,90",Cartão de crédito,Fixa,Não,Casal
+1124,2026-02-03,Corrida de aplicativo,Uber,Transporte,aplicativo,36.36,Cartão de crédito,Variável,Não,Mãe
+334,20/06/2024,Combustível,Posto Ipiranga,Transporte,Combustível,2254700.00,Cartão de crédito,Variável,Sim,Pai
+825,2025-06-18,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,1239900.00,Pix,Variável,S,Mãe
+1060,2025-12-18,Conta de água,Companhia de Saneamento,Moradia,Água,134.88,Débito automático,Variável,Sim,Casal
+108,2023-12-28,Ceia e festa de fim de ano,Supermercado Bom Preço,alimentação,Datas especiais,697.56,Cartão de crédito,Variável,Não,Casal
+1165,2026-03-02,Compras de supermercado,Mercado do Bairro, Alimentação ,Supermercado,"216,80",Cartão de crédito,Variável,S,Casal
+145,2024-01-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,320.00,Pix,Fixa,N,Casal
+803,2025-06-04,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,"R$ 400,06",Cartão de crédito,Variável,Sim,Casal
+1089,2026-01-07,Padaria,Padaria Pão Quente,Alimentação,Padaria,52.48,Pix,Variável,Sim,Mãe
+520,2024-11-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,sim,Mãe
+1297,12/06/2026,Plano celular mãe,Operadora Móvel, Comunicação ,Celular,77.06,Cartão de crédito,Fixa,S,Mãe
+563,2024-12-10,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,200.78,Cartão de crédito,Variável,Sim,Filho 2
+1300,2026-06-15,Conta de energia,Companhia de Energia,Moradia,Energia,216.85,Débito automático,Variável,Sim,casal
+121,2024-01-07,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,não,Filho 1
+920,2025-09-06,Academia,SmartFit,Saúde,Academia,124.70,cartão de crédito,Fixa,N,Mãe
+630,2025-01-20,Corrida de aplicativo,Uber,Transporte, Aplicativo ,"R$ 50,66",Cartão de crédito,Variável,N,Filho 1
+187,01/03/2024,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,"R$ 285,00",Cartão de crédito,Fixa,Sim,Pai
+1329,2026-07-08,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,117.46,Pix,Variável,Sim,Casal
+885,2025-08-06,Academia,SmartFit,Saúde,Academia,"124,70",Cartão de crédito,Fixa,não,Mãe
+748,2025-04-18,Conta de água,Companhia de Saneamento,Moradia,Água,"R$ 127,13",Débito automático,Variável,Sim,Casal
+285,2024-05-12,Plano celular pai,Operadora Móvel,comunicação,Celular,69.90,Cartão de crédito,Fixa,Sim,Pai
+959,05/10/2025,Mensalidade de inglês,Escola de Idiomas, Educação ,Cursos,"R$ 471,91",Boleto,Fixa,Não,Filho 2
+655,2025-02-11,Medicamentos,Farmácia,Saúde,Farmácia,195.87,cartão de débito,Variável,Sim,Pai
+542,2024-11-26,Compras de supermercado,Atacadão,Alimentação,Supermercado,188.12,Cartão de débito,Variável,Sim,Casal
+1109,2026-01-18,Conta de água,Companhia de Saneamento,Moradia,Água,"R$ 116,62",Débito automático,Variável,sim,Casal
+760,03/05/2025,Streaming de vídeo,Netflix,Lazer,Assinaturas,"R$ 44,90",Cartão de crédito,Fixa,Não,Casal
+1265,2026-05-15,Conta de energia,Companhia de Energia,Moradia,Energia,210.05,Débito automático,Variável,S,Casal
+290,15/05/2024,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,169.31,Cartão de crédito,Variável,Sim,Filho 2
+1221,2026-04-12,Plano celular mãe,Operadora Móvel,comunicação,Celular,77.06,CARTÃO DE CRÉDITO,Fixa,sim,Mãe
+927,2025-09-10,Higiene pessoal,Salão Beleza,Cuidados pessoais,Higiene e beleza,"112,20",Cartão de débito,Variável,N,Mae
+1432,2026-09-20,Delivery,iFood,Alimentação,Restaurantes e delivery,158.94,Cartão de crédito,Variável,não,Casal
+442,10/09/2024,Plano de saúde família,Unimed,Saúde,Plano de saúde,"R$ 1.450,00",Boleto,Fixa,Sim,Casal
+250,15/04/2024,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,146.68,Pix,Variável,S,Casal
+286,12/05/2024,Plano celular mãe,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,sim,Mãe
+27,2023-10-19,Roupas infantis,C&A,Vestuário,roupas e calçados,342.18,Cartão de crédito,Variável,não,Filho 2
+1049,11/12/2025,Corrida de aplicativo,Uber,Transporte,Aplicativo,46.39,Cartão de crédito,Variável,nao,Filho 1
+117,05/01/2024,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,420.00,Boleto,Fixa,nao,Filho 2
+325,2024-06-15,Conta de energia,Companhia de Energia,Moradia,Energia,202.10,Débito automático,Variável,Sim,Casal
+596,2025-01-03,Corrida de aplicativo,Uber,Transporte,Aplicativo,38.91,Cartão de crédito,Variável,nao,Filho 1
+1115,26/01/2026,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,202.93,Pix,Variável,Sim,Casal
+251,2024-04-16,Hambúrguer,Pizzaria Napoli,ALIMENTAÇÃO,Restaurantes e delivery,118.28,Pix,Variável,Não,Mãe
+739,12/04/2025,Ração e petiscos,Pet Shop Amigo Fiel,pets,Ração,218.62,Cartão de crédito,Variável,Sim,Filho 2
+287,14/05/2024,Combustível,Posto Shell,Transporte,Combustivel,171.39,Cartão de crédito,Variável,Sim,
+1302,16/06/2026,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,132.41,Cartão de crédito,Variável,Sim,Casal
+1074,2025-12-28,Reparo hidráulico,Leroy Merlin,Moradia,Manutenção da casa,317.68,Pix,Variável,Sim,Casal
+856,14/07/2025,Streaming de filmes e séries,Max,Lazer,Assinaturas,"R$ 34,90",Cartão de crédito,Fixa,Não,Casal
+1076,2025-12-28,Combustível,Posto Shell,Transporte,Combustível,207.69,Cartão de crédito,Variável,S,Pai
+910,2025-08-27,Combustível,Posto Shell,Transporte,Combustível,227.52,Cartão de crédito,Variável,Sim,Pai
+298,2024-05-21,Pizza,Burger House,Alimentação,Restaurantes e delivery,144.42,Cartão de crédito,Variável,não,Pai
+1332,2026-07-10,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,205.19,,Variável,sim,Filho 2
+1386,15/08/2026,Conta de energia,Companhia de Energia,Moradia,Energia,211.41,Débito automático,Variável,Sim,Casal
+387,2024-08-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,445.20,Boleto,Fixa,não,Filho 2
+92,14/12/2023,Exames laboratoriais,Laboratório Central,Saúde,Consultas e exames,358.18,Pix,Variável,S,Pai
+40,2023-11-04,Compras de supermercado,Atacadão,Alimentação,Supermercado,487.08,Cartão de débito,Variável,S,Casal
+17,2023-10-11,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,93.82,Pix,Variável,sim,Mãe
+467,2024-10-05,Mensalidade de inglês,Escola de Idiomas,Educacao,Cursos,"445,20",Boleto,Fixa,nao,Filho 2
+111,01-01-24,Corrida de aplicativo,Uber,Transporte,Aplicativo,20.32,Cartão de crédito,Variável,nao,Filho 1
+683,03-03-25,Medicamentos,Farmácia,Saúde,Farmácia,205.47,Cartão de débito,Variável,sim,filho 2
+697,2025-03-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,BOLETO,Fixa,Sim,Casal
+813,2025-06-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,Sim,Casal
+665,2025-02-17,Combustível,Posto Ipiranga,Transporte,Combustível,161.72,Cartão de crédito,Variável,Sim,Pai
+1239,02/05/2026,Combustível,Posto Shell,Transporte,Combustível,191.77,Cartão de crédito,Variável,sim,Pai
+1088,07/01/2026,Medicamentos,Farmácia,Saúde,Farmácia,162.91,Cartão de débito,Variável,sim,Mãe
+1218,2026-04-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,580.52,Boleto,Fixa,Sim,Casal
+1041,05/12/2025,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,"R$ 471,91",Boleto,Fixa,N,Filho 2
+1108,2026-01-18,Calçados,Riachuelo,Vestuário,Roupas e calçados,125.28,Cartão de crédito,Variável,Não,Pai
+733,10/04/2025,Combustível,Posto Shell,Transporte,Combustível,214.95,Cartão de débito,Variável,Sim,Pai
+1006,10/11/2025,Plano de saúde família,Unimed,Saúde,Plano de saúde,1722.75,Boleto,Fixa,Sim,Casal
+875,2025-08-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,299.25,Cartão de crédito,Fixa,Sim,Pai
+226,2024-03-25,Reparo hidráulico,Casa & Construção,Moradia,Manutenção da casa,273.12,Cartão de crédito,Variável,Sim,Casal
+988,2025-10-26,Hambúrguer,Sushi Kai,Alimentação,Restaurantes e delivery,"143,19",Cartão de crédito,Variável,não,Casal
+346,2024-07-01,Seguro do carro (parcela),Porto Seguro,transporte,Seguro auto,285.00,Cartão de crédito,Fixa,S,Pai
+625,2025-01-19,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,104.18,Pix,Variável,Sim,Casal
+824,2025-06-18,Conta de água,Companhia de Saneamento,Moradia,Água,122.32,Débito automático,Variável,Sim,Casal
+1,2023-10-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,"285,00",Cartão de crédito,Fixa,sim,pai
+1419,2026-09-10,Combustível,Posto Shell,Transporte,combustível,"174,79",Cartão de débito,Variável,Sim,
+574,17-12-24,Sushi,Restaurante Sabor,Alimentação,Restaurantes e delivery,253.36,Cartão de crédito,Variável,Não,Pai
+547,2024-12-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,299.25,Cartão de crédito,Fixa,sim,Pai
+478,10/10/2024,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,Sim,Casal
+71,2023-11-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,320.00,Pix,Fixa,N,Casal
+80,2023-12-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1380.00,Boleto,Fixa,Sim,Filho 1
+211,15-03-24,IPVA 2024 (3/3),Detran,Transporte,IPVA,800.00,Boleto,Fixa,sim,Pai
+1113,2026-01-21,Combustível,Posto Ipiranga,Transporte,Combustível,"207,77",Cartão de crédito,Variável,Sim,Pai
+986,2025-10-22,Combustível,Posto Ipiranga,Transporte,Combustível,174.96,Cartão de crédito,Variável,S,Pai
+877,2025-08-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,"44,90",Cartão de crédito,Fixa,Não,Casal
+430,2024-09-04,Padaria,Padaria Pão Quente,Alimentação,Padaria,51.10,Pix,Variável,S,Pai
+1057,15/12/2025,Presentes de Natal,Shopping / Lojas online,Presentes,Natal,1937.62,Cartão de crédito,Variável,Não,Casal
+42,2023-11-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,420.00,Boleto,Fixa,nao,Filho 2
+167,2024-02-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,Sim,Pai
+9,2023-10-06,Academia,SmartFit,Saúde,Academia,119.90,Cartão de crédito,Fixa,N,Mãe
+294,2024-05-18,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,117.03,Pix,Variável,Sim,Mae
+1207,05/04/2026,Aluguel,Imobiliária Central,moradia,Aluguel,2425.50,Boleto,Fixa,Sim,Casal
+1249,2026-05-06,Academia,SmartFit,Saúde,Academia,129.68,Cartão de crédito,Fixa,Não,Mãe
+766,06/05/2025,Academia,SmartFit,Saúde,academia,124.70,Cartão de crédito,Fixa,não,Mãe
+890,2025-08-10,Condomínio,Condomínio Residencial, Moradia ,Condomínio,563.76,Boleto,Fixa,Sim,Casal
+1259,2026-05-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,"77,06",Cartão de crédito,Fixa,Sim,Mãe
+758,,Seguro do carro (parcela),Porto Seguro, Transporte ,Seguro auto,299.25,Cartão de crédito,Fixa,Sim,Pai
+622,2025-01-15,Compras de supermercado,Supermercado Bom Preço,ALIMENTAÇÃO,Supermercado,189.77,cartão de crédito,Variável,Sim,Casal
+1201,02/04/2026,Combustível,Posto Ipiranga,Transporte,Combustível,204.60,Cartão de débito,Variável,S,Pai
+1145,2026-02-15,IPVA 2026 (2/3),Detran,Transporte,IPVA,"865,28",Boleto,Fixa,Sim,Pai
+859,2025-07-15,Cinema,Steam, Lazer ,Entretenimento,"R$ 257,09",Cartão de crédito,Variável,Não,Filho 1
+1263,2026-05-14,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,"R$ 189,85",Cartao de credito,Variável,Sim,Filho 2
+274,06/05/2024,Sushi,iFood,Alimentação,Restaurantes e delivery,69.46,Pix,Variável,Não,Filho 1
+249,2024-04-15,Combustível,Posto Ipiranga,Transporte,Combustível,160.18,Cartão de crédito,Variável,Sim,Pai
+383,01/08/2024,Compras de supermercado,Mercado do Bairro,Alimentacao,Supermercado,283.56,Pix,Variável,Sim,Casal
+1187,2026-03-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,cartão de crédito,Fixa,Não,Casal
+1011,12/11/2025,Padaria,Padaria Pão Quente,Alimentacao,Padaria,36.53,Cartão de débito,Variável,S,Pai
+747,2025-04-16,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,93.24,Pix,Variável,Sim,Casal
+1246,2026-05-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1738.40,Boleto,Fixa,S,Filho 1
+66,2023-11-25,Padaria,Padaria Pão Quente,alimentação,Padaria,30.66,Cartão de débito,Variável,S,pai
+181,2024-02-23,Combustível,Posto Ipiranga,TRANSPORTE,Combustível,191.76,Cartão de crédito,Variável,Sim,Pai
+74,02-12-23,Sushi,Sushi Kai,Alimentação,Restaurantes e delivery,"R$ 70,51",Pix,Variável,Não,Casal
+605,2025-01-09,Combustível,Posto Ipiranga,Transporte, Combustível ,217.35,Cartão de crédito,Variável,Sim,pai
+174,18/02/2024,Corrida de aplicativo,Uber,Transporte,Aplicativo,"R$ 22,81",Cartão de crédito,Variável,Não,mãe
+1225,15-04-26,Conta de energia,Companhia de Energia,Moradia,Energia,264.20,débito automático,Variável,Sim,Casal
+133,2024-01-16,Padaria,Padaria Pão Quente,Alimentação,Padaria,"30,14",Pix,Variável,Sim,Pai
+1044,08/12/2025,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,"R$ 232,93",Pix,Variável,Sim,Casal
+1264,14/05/2026,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Casal
+78,2023-12-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,Boleto,Fixa,Sim,Casal
+1078,2026-01-01,Corrida de aplicativo,Uber,Transporte,Aplicativo,37.51,Cartão de crédito,Variável,Não,Mãe
+1404,02/09/2026,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,"497,32",Pix,Variável,S,Casal
+1131,08/02/2026,Internet fibra 500MB,Provedor Net,Comunicação,Internet,134.72,Cartão de crédito,Fixa,Sim,Casal
+973,2025-10-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,"34,90",Cartão de crédito,Fixa,N,Casal
+1199,2026-03-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,"R$ 352,80",Pix,Fixa,Não,Casal
+843,2025-07-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,127.09,Cartão de crédito,Fixa,S,Casal
+861,16-07-25,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,138.63,Cartão de crédito,Variável,Sim,Casal
+233,2024-04-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1490.40,Boleto,Fixa,Sim,Filho 1
+281,2024-05-09,Combustível,Posto Ipiranga,Transporte,combustível,204.06,Cartão de crédito,Variável,Sim,Pai
+1068,2025-12-24,Combustível,Posto Ipiranga,Transporte,Combustível,216.35,Cartão de débito,Variável,S,Pai
+1313,2026-06-26,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,"72,11",Cartão de crédito,Variável,S,Casal
+848,2025-07-11,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,89.51,Pix,Variável,Sim,Mãe
+808,2025-06-06,Academia,SmartFit,Saúde,academia,"R$ 124,70",Cartão de crédito,Fixa,Não,Mãe
+707,2025-03-15,Conta de energia,Companhia de Energia,Moradia,Energia,311.66,Débito automático,Variável,Sim,Casal
+1125,2026-02-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,"1738,40",Boleto,Fixa,Sim,Filho 1
+549,2024-12-02,Padaria,Padaria Pão Quente,ALIMENTAÇÃO,Padaria,39.28,pix,Variável,S,Mãe
+205,12/03/2024,Plano celular mãe,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,S,Mãe
+320,2024-06-10,Sushi,iFood,Alimentação,Restaurantes e delivery,128.81,Cartão de crédito,Variável,Não,Pai
+882,2025-08-05,Padaria,Padaria Pão Quente, Alimentação ,Padaria,"62,45",Pix,Variável,Sim,Pai
+1105,2026-01-15,Conta de energia,Companhia de Energia,Moradia,Energia,313.00,Débito automático,Variável,Sim,Casal
+557,2024-12-06,Academia,SmartFit,Saúde,Academia,124.70,Cartão de crédito,Fixa,não,Mãe
+331,,Conta de água,Companhia de Saneamento,Moradia,Água,117.07,Débito automático,Variável,S,Casal
+370,2024-07-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,nao,Casal
+1400,2026-08-28,Pizza,Sushi Kai, Alimentação ,Restaurantes e delivery,80.74,Cartão de crédito,Variável,nao,Filho 1
+653,2025-02-10,Condomínio,Condomínio Residencial,Moradia,CONDOMÍNIO,551.59,Boleto,Fixa,S,Casal
+97,2023-12-16,Padaria,Padaria Pão Quente,Alimentação,Padaria,40.92,Cartao de debito,Variável,Sim,Pai
+676,2025-02-27,Compras de supermercado,Atacadão,Alimentação,Supermercado,184.07,,Variável,sim,Casal
+19,2023-10-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,Sim,Mãe
+624,2025-01-18,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,99.02,Pix,Variável,S,Mae
+540,2024-11-21,Delivery,Sushi Kai,alimentação,Restaurantes e delivery,137.57,pix,Variável,Não,Filho 1
+983,2025-10-20,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,85.43,Pix,Variável,Sim,Casal
+65,2023-11-24,Padaria,Padaria Pão Quente,Alimentação,Padaria,"R$ 59,39",Cartão de débito,Variável,sim,Pai
+891,2025-08-10,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,193.34,Pix,Variável,Sim,Casal
+869,24/07/2025,Medicamentos,Farmácia,SAÚDE,Farmácia,182.39,Cartão de crédito,Variável,S,Filho 1
+669,2025-02-20,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,44.60,Pix,Variável,Sim,Casal
+1308,2026-06-22,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,215.73,Cartão de débito,Variável,sim,Casal
+580,2024-12-20,Padaria,Padaria Pão Quente,Alimentação,Padaria,"R$ 33,05",Cartão de débito,Variável,Sim,Pai
+939,2025-09-14,Roupas infantis,Centauro,VESTUÁRIO,Roupas e calçados,427.74,Cartão de crédito,Variável,nao,Filho 1
+1126,05/02/2026,Aluguel,Imobiliária Central,Moradia,ALUGUEL,2425.50,Boleto,Fixa,S,Casal
+1084,2026-01-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1609.63,Boleto,Fixa,sim,Filho 1
+724,2025-04-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,Boleto,Fixa,Sim,Casal
+1248,06/05/2026,Sushi,Sushi Kai,Alimentação,Restaurantes e delivery,178.28,Cartão de crédito,Variável,Não,Pai
+763,05/05/2025,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,boleto,Fixa,Sim,Casal
+854,13/07/2025,Padaria,Padaria Pão Quente,Alimentação,Padaria,"R$ 31,77",Pix,Variável,Sim,Mãe
+640,2025-02-04,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,83.26,Pix,Variável,S,Mãe
+255,2024-04-18,Combustível,Posto Ipiranga,Transporte,Combustível,208.82,Cartão de débito,Variável,S,Pai
+966,2025-10-10,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,186.97,,Variável,Sim,Casal
+526,15/11/2024,Combustível,Posto Ipiranga,Transporte,Combustível,"R$ 203,20",Cartão de crédito,Variável,sim,Pai
+327,2024-06-16,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,196.73,Cartão de crédito,Variável,sim,Filho 2
+1257,2026-05-11,Feira / hortifrúti,Feira Livre,Alimentacao,Hortifruti,83.10,Pix,Variável,Sim,Mãe
+150,2024-02-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1490.40,boleto,Fixa,S,Filho 1
+926,2025-09-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,565.87,Boleto,Fixa,S,Casal
+1253,2026-05-10,Condomínio,Condomínio Residencial,moradia,Condomínio,582.63,Boleto,Fixa,sim,casal
+136,20/01/2024,Combustível,Posto Ipiranga,Transporte,Combustível,226.01,Cartão de crédito,Variável,Sim,Pai
+1030,2025-11-26,Medicamentos,Farmácia,Saúde,FARMÁCIA,88.07,Cartão de crédito,Variável,Sim,Mãe
+464,2024-10-05,Delivery,iFood,Alimentação,Restaurantes e delivery,160.10,Cartão de crédito,Variável,nao,Filho 1
+645,2025-02-06,Exames laboratoriais,Odonto Sorriso, Saúde ,Consultas e exames,364.36,Pix,Variável,S,Pai
+199,2024-03-08,Corrida de aplicativo,Uber,transporte,Aplicativo,18.63,Cartão de crédito,Variável,nao,Mãe
+524,2024-11-14,Parque,Cinemark,Lazer,Entretenimento,257.22,Cartão de crédito,Variável,Não,Filho 2
+1141,2026-02-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,"R$ 34,90",Cartão de crédito,Fixa,Não,Casal
+1083,2026-01-04,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,111.33,Pix,Variável,Sim,Mãe
+107,2023-12-25,Padaria,Padaria Pão Quente,Alimentação,Padaria,58.32,Pix,Variável,sim,Mãe
+1339,2026-07-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,77.06,Cartao de credito,Fixa,Sim,Pai
+921,2025-09-06,Padaria,Padaria Pão Quente,Alimentação,Padaria,54.35,Cartão de débito,Variável,S,Pai
+431,2024-09-04,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,112.27,pix,Variável,S,mãe
+979,2025-10-17,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,202.31,Cartão de crédito,Variável,Sim,Filho 2
+841,2025-07-07,Combustível,Posto Ipiranga,Transporte,Combustível,"241,06",CARTÃO DE CRÉDITO,Variável,Sim,
+839,2025-07-05,Mensalidade de inglês,Escola de Idiomas,Educacao,Cursos,471.91,Boleto,Fixa,N,filho 2
+328,16-06-24,Salão,Salão Beleza,Cuidados pessoais,Higiene e beleza,244.72,Pix,Variável,Não,Mãe
+893,2025-08-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,"R$ 73,40",Cartão de crédito,Fixa,Sim,Pai
+1226,2026-04-16,Compras de supermercado,Atacadão,Alimentação,Supermercado,144.36,Cartão de débito,Variável,Sim,Casal
+664,16/02/2025,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,92.95,Pix,Variável,sim,Casal
+463,2024-10-04,Produtos de limpeza,Loja de Utilidades,Moradia,Manutenção da casa,"338,48",Cartão de crédito,Variável,S,Casal
+675,2025-02-26,Padaria,Padaria Pão Quente,ALIMENTAÇÃO,Padaria,"26,02",Cartão de débito,Variável,Sim,pai
+1326,2026-07-07,Salão,Salão Beleza,Cuidados pessoais,Higiene e beleza,196.20,Cartão de débito,Variável,não,Pai
+940,2025-09-14,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,123.05,Pix,Variável,Sim,Casal
+1349,2026-07-20,Combustível,Posto Shell,Transporte,Combustível,"249,36",Cartão de débito,Variável,Sim,Pai
+727,2025-04-06,Academia,SmartFit,Saúde,academia,124.70,Cartão de crédito,Fixa,nao,Mãe
+558,2024-12-07,Streaming de música,Spotify,Lazer,Assinaturas,"34,90",Cartão de crédito,Fixa,Não,Filho 1
+997,2025-11-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1609.63,Boleto,Fixa,sim,Filho 1
+15,2023-10-10,Condomínio,Condomínio Residencial,moradia,Condomínio,520.00,Boleto,Fixa,Sim,Casal
+184,2024-02-28,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,168.62,Cartão de crédito,Variável,S,Casal
+1227,16/04/2026,Padaria,Padaria Pão Quente,alimentação,Padaria,"R$ 41,71",Cartão de débito,Variável,Sim,Pai
+101,2023-12-19,Combustível,Posto Shell,Transporte,Combustível,224.84,Cartão de crédito,Variável,Sim,Pai
+1077,2025-12-30,Diarista (2x no mês),Diarista Maria,moradia,Serviços domésticos,"R$ 352,80",Pix,Fixa,nao,Casal
+623,2025-01-18,Conta de água,Companhia de Saneamento,Moradia,Água,109.42,Débito automático,Variável,S,Casal
+335,2024-06-20,Gás de cozinha/encanado,Distribuidora de Gás,moradia,Gás,43.81,Pix,Variável,Sim,casal
+971,2025-10-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,S,Pai
+449,2024-09-15,Combustível,Posto Ipiranga,TRANSPORTE,Combustível,"R$ 157,40",Cartão de débito,Variável,Sim,Pai
+498,2024-10-25,Padaria,Padaria Pão Quente,Alimentação,Padaria,"R$ 39,59",Pix,Variável,Sim,Mãe
+1268,2026-05-21,Combustível,Posto Ipiranga,Transporte,Combustível,245.84,Cartão de crédito,Variável,sim,Pai
+795,2025-05-26,Padaria,Padaria Pão Quente,Alimentação,Padaria,24.98,Pix,Variável,Sim,mãe
+149,2024-02-03,Compras de supermercado,Atacadão,Alimentação,Supermercado,301.98,Pix,Variável,sim,Casal
+887,08/08/2025,Internet fibra 500MB,Provedor Net,Comunicação,Internet,127.09,Cartão de crédito,Fixa,Sim,Casal
+1058,2025-12-16,Combustível,Posto Shell,Transporte,Combustível,"R$ 161,84",Cartão de crédito,Variável,Sim,Pai
+201,2024-03-09,Combustível,Posto Ipiranga,Transporte,Combustível,190.33,Cartão de crédito,Variável,sim,Pai
+77,2023-12-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,"39,90",Cartão de crédito,Fixa,N,Casal
+525,2024-11-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Casal
+312,06/06/2024,Academia,SmartFit,SAÚDE,Academia,"R$ 119,90",Cartão de crédito,Fixa,Não,Mãe
+1357,2026-07-28,Compras de supermercado,Atacadão,Alimentação,Supermercado,76.62,Cartão de crédito,Variável,Sim,casal
+458,30/09/2024,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,320.00,Pix,Fixa,Não,Casal
+1065,2025-12-21,Conserto mecânico,Oficina Auto Center,Transporte,Manutenção do carro,"R$ 219,89",Cartão de crédito,Variável,Sim,Pai
+1366,2026-08-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,500.23,Boleto,Fixa,Não,Filho 2
+720,2025-03-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,336.00,Pix,Fixa,não,casal
+802,03/06/2025,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,Cartao de credito,Fixa,Não,Casal
+391,2024-08-07,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,N,Filho 1
+1026,2025-11-22,Corrida de aplicativo,Uber,Transporte,Aplicativo,33.68,CARTÃO DE CRÉDITO,Variável,não,Filho 1
+46,2023-11-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,"R$ 119,90",Cartão de crédito,Fixa,Sim,Casal
+131,2024-01-15,IPVA 2024 (1/3),Detran,Transporte,IPVA,800.00,Boleto,Fixa,S,Pai
+1381,2026-08-14,Salão,Salão Beleza,Cuidados pessoais, Higiene e beleza ,139.30,cartão de débito,Variável,Não,Mae
+1307,2026-06-20,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,"56,81",Pix,Variável,sim,Casal
+367,2024-07-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,"69,90",Cartão de crédito,Fixa,Sim,
+1042,2025-12-06,Academia,SmartFit,Saude,academia,129.68,Cartão de crédito,Fixa,Não,Mãe
+1384,2026-08-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,"34,90",Cartão de crédito,Fixa,Não,Casal
+496,2024-10-20,Compras de supermercado,Mercado do Bairro,alimentação,Supermercado,125.02,cartão de débito,Variável,sim,Casal
+486,2024-10-15,Corrida de aplicativo,Uber,Transporte,Aplicativo,38.15,Cartão de crédito,Variável,não,Filho 1
+407,18/08/2024,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Racao,143.09,Cartão de crédito,Variável,Sim,Filho 2
+21,15-10-23,Conta de energia,Companhia de Energia,Moradia,Energia,236.41,Débito automático,Variável,Sim,Casal
+1336,11/07/2026,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,146.82,Pix,Variável,Sim,Mãe
+1179,2026-03-09,Compras de supermercado,Atacadão,Alimentação,Supermercado,"191,45",Pix,Variável,Sim,Casal
+1091,2026-01-08,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,225.07,Cartão de crédito,Variável,sim,Filho 2
+1122,2026-02-03,Streaming de vídeo,Netflix,LAZER,Assinaturas,44.90,,Fixa,não,Casal
+690,06/03/2025,Academia,SmartFit,Saúde,Academia,124.70,Cartão de crédito,Fixa,N,Mãe
+1426,2026-09-16,Padaria,Padaria Pão Quente,Alimentação,Padaria,,Pix,Variável,Sim,Pai
+523,2024-11-13,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,77.73,Cartão de crédito,Variável,Sim,Casal
+1103,13/01/2026,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,133.95,Cartão de crédito,Variável,Sim,Casal
+140,2024-01-22,Cosméticos,Salão Beleza,Cuidados pessoais,Higiene e beleza,103.43,Pix,Variável,N,Mãe
+544,2024-11-28,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,75.76,Pix,Variável,S,Casal
+5,2023-10-04,Medicamentos,Farmácia,Saúde,Farmácia,190.49,Cartão de crédito,Variável,Sim,Pai
+816,12-06-25,Plano celular mãe,Operadora Móvel,Comunicação,Celular,"R$ 73,40",Cartão de crédito,Fixa,S,mãe
+1209,2026-04-06,Academia,SmartFit,Saúde,Academia,129.68,Cartão de crédito,Fixa,não,Mãe
+864,2025-07-18,Conta de água,Companhia de Saneamento,Moradia,Água,136.47,Débito automático,Variável,Sim,Casal
+115,2024-01-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,"R$ 39,90",Cartão de crédito,Fixa,nao,Casal
+548,02/12/2024,Compras de supermercado,Atacadão,Alimentação,Supermercado,292.15,Cartão de crédito,Variável,Sim,Casal
+375,2024-07-18,Conta de água,Companhia de Saneamento,Moradia,ÁGUA,109.98,Débito automático,Variável,S,Casal
+593,2025-01-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,299.25,Cartão de crédito,Fixa,S,Pai
+531,15-11-24,Combustível,Posto Shell,Transporte,Combustível,230.39,Cartão de débito,Variável,S,Pai
+246,2024-04-12,Plano celular mãe,Operadora Móvel,Comunicação,celular,69.90,cartão de crédito,Fixa,Sim,Mãe
+577,2024-12-18,Padaria,Padaria Pão Quente,Alimentação,Padaria,30.79,Cartão de débito,Variável,sim,Pai
+1036,03/12/2025,Delivery,Restaurante Sabor,Alimentação,Restaurantes e delivery,171.30,Pix,Variável,Não,Mãe
+1222,12/04/2026,Plano celular pai,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,Sim,Pai
+671,2025-02-21,Corte de cabelo,Barbearia Clássica,Cuidados pessoais,Higiene e beleza,"245,15",Cartão de débito,Variável,N,Pai
+393,2024-08-09,Cinema,Parque da Cidade,Lazer,Entretenimento,"100,11",Cartão de crédito,Variável,não,Filho 1
+381,2024-07-28,Padaria,Padaria Pão Quente,Alimentação,Padaria,34.57,Cartão de débito,Variável,Sim,Mãe
+694,2025-03-09,Compras de supermercado,Atacadão,Alimentação,Supermercado,"R$ 118,24",Cartão de débito,Variável,Sim,Casal
+1280,2026-06-04,Combustível,Posto Ipiranga,Transporte,Combustível,203.80,Cartão de crédito,Variável,sim,pai
+672,2025-02-21,Veterinário,Clínica Veterinária,Pets,Veterinário,302.63,Pix,Variável,S,Filho 2
+1129,2026-02-06,Combustível,Posto Shell,Transporte,Combustível,"R$ 207,29",Cartão de crédito,Variável,sim,Pai
+1002,2025-11-07,Streaming de música,Spotify,LAZER,Assinaturas,40.90,,Fixa,Não,Filho 1
+1241,2026-05-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,Cartão de crédito,Fixa,não,Casal
+1354,2026-07-24,Passeios e alimentação na viagem,Diversos,Viagens,Passeios,1291.98,Cartão de crédito,Variável,nao,Casal
+359,2024-07-08,Hambúrguer,Pizzaria Napoli,Alimentacao,Restaurantes e delivery,205.96,Pix,Variável,Não,Casal
+565,2024-12-10,Corrida de aplicativo,Uber,Transporte,Aplicativo,47.58,Cartão de crédito,Variável,N,Filho 1
+946,2025-09-24,Corrida de aplicativo,Uber,Transporte,Aplicativo,48.58,Cartão de crédito,Variável,Não,Mãe
+974,2025-10-15,Sushi,Restaurante Sabor,Alimentação,Restaurantes e delivery,141.35,Pix,Variável,nao,Casal
+870,2025-07-25,Corrida de aplicativo,Uber,Transporte,Aplicativo,25.52,Cartão de crédito,Variável,Não,Filho 1
+272,2024-05-05,Padaria,Padaria Pão Quente,Alimentação,Padaria,25.66,Cartão de débito,Variável,S,Pai
+1334,2026-07-10,Medicamentos,Farmácia,Saúde,Farmácia,261.30,Pix,Variável,Sim,Filho 2
+1319,04/07/2026,Padaria,Padaria Pão Quente,Alimentação,Padaria,71.91,Pix,Variável,S,Pai
+644,2025-02-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,471.91,Boleto,Fixa,N,Filho 2
+264,2024-04-27,Padaria,Padaria Pão Quente,Alimentação, Padaria ,63.31,Cartão de débito,Variável,S,Mãe
+399,2024-08-10,Combustível,Posto Ipiranga,Transporte,Combustível,163.94,Cartão de crédito,Variável,Sim,Pai
+36,2023-11-02,Reparo hidráulico,Leroy Merlin,Moradia,Manutenção da casa,236.26,Pix,Variável,Sim,Casal
+51,12-11-23,Plano celular mãe,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,Sim,Mãe
+1081,2026-01-03,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,"R$ 202,27",Cartão de crédito,Variável,Sim,Casal
+126,2024-01-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,Sim,Mãe
+780,13/05/2025,Delivery,Pizzaria Napoli,Alimentação,Restaurantes e delivery,200.87,pix,Variável,Não,mãe
+597,2025-01-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,Boleto,Fixa,Sim,Casal
+1420,2026-09-11,Padaria,Padaria Pão Quente,Alimentação, Padaria ,43.65,PIX,Variável,sim,Mãe
+219,22/03/2024,Restaurante,Pizzaria Napoli,Alimentação,Restaurantes e delivery,169.96,Cartão de crédito,Variável,não,Casal
+585,25/12/2024,Padaria,Padaria Pão Quente, Alimentação ,Padaria,49.87,Pix,Variável,Sim,Mãe
+230,2024-04-03,Compras de supermercado,Mercado do Bairro,Alimentação, Supermercado ,334.70,Cartão de crédito,Variável,Sim,Casal
+1022,2025-11-20,Compras de supermercado,Atacadão,Alimentação,Supermercado,"R$ 173,49",Pix,Variável,sim,Casal
+1315,2026-07-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,314.21,Cartão de crédito,Fixa,sim,Pai
+601,2025-01-06,Padaria,Padaria Pão Quente,Alimentação,Padaria,"60,27",Cartão de débito,Variável,Sim,Mãe
+845,2025-07-09,Restaurante,Sushi Kai,Alimentação,Restaurantes e delivery,185.94,Cartão de crédito,Variável,Não,Pai
+341,2024-06-27,Corrida de aplicativo,Uber,transporte,Aplicativo,34.97,Cartão de crédito,Variável,N,Filho 1
+1283,05/06/2026,Aluguel,Imobiliária Central,Moradia,Aluguel,2425.50,Boleto,Fixa,Sim,Casal
+240,2024-04-09,Corrida de aplicativo,Uber,transporte,Aplicativo,22.33,Cartão de crédito,Variável,não,Mãe
+638,03/02/2025,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,268.32,Cartão de crédito,Variável,Sim,Casal
+1114,2026-01-26,Cosméticos,Barbearia Clássica,Cuidados pessoais,Higiene e beleza,"112,62",pix,Variável,Não,Mãe
+1287,2026-06-07,Combustível,Posto Ipiranga,Transporte,combustível,175.49,Cartão de débito,Variável,sim,Pai
+1343,15/07/2026,Padaria,Padaria Pão Quente,Alimentação,Padaria,31.53,Cartão de débito,Variável,Sim,Mãe
+114,2024-01-03,Pizza,Sushi Kai,Alimentação,Restaurantes e delivery,50.78,Pix,Variável,não,Pai
+439,08/09/2024,Internet fibra 500MB,Provedor Net,COMUNICAÇÃO,Internet,"R$ 119,90",Cartão de crédito,Fixa,Sim,Casal
+1422,12/09/2026,Plano celular mãe,Operadora Móvel,Comunicacao,Celular,77.06,Cartão de crédito,Fixa,sim,Mãe
+412,2024-08-20,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,165.31,Cartão de débito,Variável,sim,Casal
+1040,2025-12-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,"1609,63",Boleto,Fixa,sim,Filho 1
+579,20/12/2024,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,54.45,Pix,Variável,Sim,Casal
+532,2024-11-15,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,219.54,Cartão de crédito,Variável,S,Filho 2
+539,2024-11-20,Padaria,Padaria Pão Quente,Alimentação,padaria,"26,42",Pix,Variável,Sim,Pai
+277,2024-05-07,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,78.40,Cartão de crédito,Variável,S,Casal
+1107,2026-01-17,Parque,Steam,LAZER,Entretenimento,165.79,,Variável,Não,Filho 1
+536,19/11/2024,Compras de supermercado,Atacadão,Alimentação,Supermercado,"R$ 161,78",Cartão de crédito,Variável,Sim,Casal
+538,19/11/2024,Utensílios domésticos,Loja de Utilidades,Moradia,Manutenção da casa,165.63,Pix,Variável,Sim,Casal
+493,2024-10-20,Gás de cozinha/encanado,Distribuidora de Gás, Moradia ,Gás,52.77,Pix,Variável,Sim,Casal
+236,2024-04-07,Streaming de música,Spotify,Lazer,assinaturas,34.90,Cartão de crédito,Fixa,Não,Filho 1
+819,2025-06-13,Compras de supermercado,Supermercado Bom Preço,ALIMENTAÇÃO,Supermercado,192.99,Cartão de crédito,Variável,S,Casal
+44,2023-11-06,Academia,SmartFit,Saúde,Academia,119.90,Cartão de crédito,Fixa,N,Mãe
+1095,2026-01-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,,Boleto,Fixa,sim,Casal
+324,2024-06-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,N,Casal
+343,2024-06-28,Corrida de aplicativo,Uber,Transporte,Aplicativo,19.62,Cartão de crédito,Variável,Não,Filho 1
+639,03/02/2025,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,cartão de crédito,Fixa,nao,Casal
+1167,2026-03-03,Streaming de vídeo,Netflix,lazer,Assinaturas,44.90,Cartão de crédito,Fixa,Não,Casal
+543,2024-11-28,Compras Black Friday (eletro),Magazine Luiza,Compras,Eletrônicos e eletrodomésticos,1182.39,Cartão de crédito,Variável,N,Casal
+368,2024-07-14,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,129.82,Cartão de crédito,Variável,Sim,Casal
+1025,2025-11-22,Pizza,Burger House,alimentação,Restaurantes e delivery,"68,07",Pix,Variável,nao,Casal
+863,18/07/2025,Padaria,Padaria Pão Quente,Alimentação,Padaria,40.39,Cartão de débito,Variável,Sim,Pai
+216,2024-03-19,Corrida de aplicativo,Uber,TRANSPORTE,Aplicativo,47.08,cartão de crédito,Variável,Não,Filho 1
+1236,2026-05-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,314.21,Cartão de crédito,Fixa,Sim,Pai
+1345,16/07/2026,Compras de supermercado,Supermercado Bom Preço, Alimentação ,Supermercado,190.67,Cartão de crédito,Variável,S,Casal
+128,2024-01-14,Compras de supermercado,Atacadão,Alimentação,Supermercado,204.61,Cartão de crédito,Variável,Sim,Casal
+1192,18/03/2026,Conta de água,Companhia de Saneamento,Moradia,Água,"116,65",Debito automatico,Variável,Sim,Casal
+166,12/02/2024,Plano celular mãe,Operadora Móvel, Comunicação ,Celular,"69,90",Cartão de crédito,Fixa,Sim,Mãe
+306,01-06-24,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,285.00,CARTÃO DE CRÉDITO,Fixa,Sim,Pai
+238,2024-04-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,119.90,Cartão de crédito,Fixa,Sim,Casal
+860,2025-07-15,Viagem de férias (hospedagem),Booking,Viagens,Hospedagem,4458.83,Cartão de crédito,Variável,não,Casal
+511,2024-11-06,Parque,Parque da Cidade,Lazer,Entretenimento,292.33,Cartao de credito,Variável,não,Filho 1
+827,2025-06-20,Gás de cozinha/encanado,Distribuidora de Gás,moradia,Gás,46.07,Pix,Variável,Sim,Casal
+209,2024-03-14,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,74.24,Cartão de crédito,Variável,sim,Casal
+876,2025-08-01,Sushi,Sushi Kai,Alimentação,Restaurantes e delivery,113.45,Cartão de crédito,Variável,Não,Mãe
+938,14-09-25,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,N,Casal
+1361,2026-08-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,314.21,Cartão de crédito,Fixa,Sim,
+125,2024-01-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,525.80,BOLETO,Fixa,sim,Casal
+31,2023-10-23,Delivery,iFood,Alimentação,Restaurantes e delivery,140.88,Pix,Variável,Não,Casal
+1370,06-08-26,Academia,SmartFit,Saúde,Academia,129.68,Cartão de crédito,Fixa,N,Mãe
+1266,2026-05-18,Conta de água,Companhia de Saneamento,Moradia,Água,134.02,Débito automático,Variável,sim,Casal
+1132,2026-02-08,Combustível,Posto Shell,Transporte,Combustível,225.03,Cartão de débito,Variável,Sim,Pai
+1330,2026-07-09,Padaria,Padaria Pão Quente,Alimentação,Padaria,58.98,Pix,Variável,Sim,Pai
+634,2025-01-26,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,191.35,cartão de crédito,Variável,Sim,Casal
+247,2024-04-13,Combustível,Posto Ipiranga,Transporte,Combustível,177.53,Cartão de débito,Variável,sim,Pai
+1389,2026-08-18,Conta de água,Companhia de Saneamento,Moradia,Água,143.30,Débito automático,Variável,Sim,Casal
+943,18/09/2025,Conta de água,Companhia de Saneamento,Moradia,água,126.22,Débito automático,Variável,Sim,Casal
+917,2025-09-05,Mensalidade de inglês,Escola de Idiomas,Educacao,Cursos,471.91,Boleto,Fixa,Não,Filho 2
+976,2025-10-15,Corrida de aplicativo,Uber,Transporte,APLICATIVO,29.18,Cartão de crédito,Variável,Não,Filho 1
+1376,2026-08-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,589.13,Boleto,Fixa,sim,Casal
+234,05/04/2024,Mensalidade de inglês,Escola de Idiomas,educação,Cursos,445.20,Boleto,Fixa,Não,Filho 2
+674,2025-02-25,Restaurante,Sushi Kai,Alimentação,Restaurantes e delivery,59.08,Pix,Variável,Não,Casal
+785,15/05/2025,Lâmpadas e ferramentas,Casa & Construção,Moradia,Manutenção da casa,190.29,Cartão de crédito,Variável,Sim,Casal
+670,2025-02-21,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,227.86,cartão de crédito,Variável,Sim,Casal
+1356,27/07/2026,Delivery,Sushi Kai,Alimentação,Restaurantes e delivery,234.43,Cartão de crédito,Variável,N,Mãe
+366,2024-07-12,Plano celular mãe,Operadora Móvel,comunicação,Celular,69.90,Cartão de crédito,Fixa,Sim,Mãe
+421,2024-08-27,Hambúrguer,iFood,alimentação,Restaurantes e delivery,148.20,Pix,Variável,nao,Casal
+1003,08/11/2025,Internet fibra 500MB,Provedor Net,Comunicação,Internet,134.72,Cartão de crédito,Fixa,Sim,Casal
+1394,2026-08-21,Delivery,Pizzaria Napoli,Alimentação,Restaurantes e delivery,109.35,,Variável,Não,Filho 1
+263,2024-04-24,Corrida de aplicativo,Uber,Transporte,Aplicativo,33.44,Cartão de crédito,Variável,Não,Filho 1
+957,2025-10-04,Corrida de aplicativo,Uber,Transporte,Aplicativo,24.90,Cartão de crédito,Variável,N,Mãe
+67,25/11/2023,Combustível,Posto Ipiranga,Transporte,Combustível,160.53,Cartão de débito,Variável,S,Pai
+1128,06/02/2026,Academia,SmartFit,Saúde,Academia,"R$ 129,68",cartão de crédito,Fixa,Não,Mãe
+1272,2026-05-23,Restaurante,Sushi Kai,Alimentação,Restaurantes e delivery,66.83,Pix,Variável,Não,Mãe
+968,2025-10-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1722.75,,Fixa,Sim,casal
+1197,25/03/2026,Pizza,Restaurante Sabor,Alimentação,Restaurantes e delivery,99.77,PIX,Variável,nao,Casal
+218,2024-03-20,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,174.20,Cartão de crédito,Variável,sim,Casal
+1325,2026-07-07,Streaming de música,Spotify,Lazer,Assinaturas,"R$ 40,90",Cartão de crédito,Fixa,nao,Filho 1
+506,2024-11-04,Padaria,Padaria Pão Quente,Alimentação,Padaria,26.10,Pix,Variável,Sim,Pai
+329,16/06/2024,Compras de supermercado,Atacadão,Alimentação,Supermercado,129.62,Pix,Variável,Sim,Casal
+1159,25/02/2026,Show/ingressos,Sympla,Lazer,Entretenimento,87.73,Cartão de crédito,Variável,não,Filho 1
+1093,09/01/2026,Delivery,Pizzaria Napoli,Alimentação,Restaurantes e delivery,138.31,Pix,Variável,nao,Casal
+476,2024-10-09,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,159.55,Cartão de crédito,Variável,sim,Filho 2
+588,2024-12-27,Material de manutenção,Casa & Construção,Moradia,Manutenção da casa,256.58,Cartão de crédito,Variável,S,Casal
+1019,18/11/2025,Passeio em família,Cinemark,Lazer,Entretenimento,207.09,Cartão de crédito,Variável,Não,Filho 1
+307,2024-06-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,39.90,Cartão de crédito,Fixa,Não,Casal
+996,04/11/2025,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,"R$ 98,10",Pix,Variável,Sim,Mãe
+1196,23/03/2026,Aniversário Filho 1,Buffet Infantil / Mercado,Presentes,Aniversários,1064.19,Cartão de crédito,Variável,Não,Filho 1
+197,07/03/2024,Streaming de música,Spotify,Lazer,assinaturas,34.90,cartão de crédito,Fixa,nao,Filho 1
+1120,2026-02-02,Restaurante,Burger House,Alimentação,Restaurantes e delivery,111.44,Cartão de crédito,Variável,Não,Pai
+261,23/04/2024,Corrida de aplicativo,Uber,Transporte,Aplicativo,30.08,Cartão de crédito,Variável,não,Filho 1
+499,2024-10-27,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,160.78,Cartão de débito,Variável,Sim,Casal
+1295,2026-06-12,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,174.97,Cartao de credito,Variável,Sim,Filho 2
+483,12/10/2024,Padaria,Padaria Pão Quente,Alimentação,Padaria,60.34,Cartão de débito,Variável,Sim,Pai
+970,2025-10-11,Material de manutenção,Leroy Merlin,moradia,Manutenção da casa,259.96,Pix,Variável,Sim,Casal
+712,2025-03-18,Conta de água,Companhia de Saneamento,Moradia,Água,126.93,Débito automático,Variável,Sim,Casal
+752,2025-04-23,Combustível,Posto Shell,Transporte,Combustível,217.34,Cartão de débito,Variável,Sim,Pai
+767,07/05/2025,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,"162,82",Cartão de crédito,Variável,Sim,Casal
+602,2025-01-07,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Filho 1
+682,2025-03-02,Compras de supermercado,Atacadão,Alimentação,Supermercado,265.41,Pix,Variável,S,Casal
+186,2024-02-29,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,320.00,Pix,Fixa,Não,casal
+364,2024-07-10,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,153.57,Cartão de crédito,Variável,Sim,Filho 2
+63,2023-11-22,Compras de supermercado,Mercado do Bairro,ALIMENTAÇÃO,Supermercado,160.99,Cartão de débito,Variável,S,Casal
+1277,2026-06-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,314.21,Cartão de crédito,Fixa,S,Pai
+282,2024-05-10,Combustível,Posto Ipiranga,Transporte,Combustível,190.10,Cartão de crédito,Variável,Sim,Pai
+1193,2026-03-18,Feira / hortifrúti,Feira Livre,alimentação,Hortifruti,82.70,Pix,Variável,Sim,mãe
+1337,12/07/2026,Plano celular mãe,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,Sim,Mãe
+790,2025-05-21,Combustível,Posto Shell,Transporte,Combustível,178.36,Cartão de crédito,Variável,Sim,Pai
+1423,2026-09-14,Streaming de filmes e séries,Max,lazer,Assinaturas,34.90,Cartão de crédito,Fixa,N,Casal
+884,2025-08-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1609.63,Boleto,Fixa,sim,Filho 1
+58,2023-11-17,Padaria,Padaria Pão Quente,Alimentação,PADARIA,61.12,Cartão de débito,Variável,S,Pai
+1118,2026-01-30,Diarista (2x no mês),Diarista Maria,moradia,Serviços domésticos,352.80,Pix,Fixa,Não,casal
+1434,2026-09-23,Combustível,Posto Shell, Transporte ,Combustível,227.35,Cartão de crédito,Variável,Sim,Pai
+289,2024-05-15,Corrida de aplicativo,Uber,Transporte,Aplicativo,18.70,Cartão de crédito,Variável,não,Filho 1
+227,2024-03-28,Compras de supermercado,Atacadão,Alimentação,Supermercado,127.53,cartão de débito,Variável,S,Casal
+516,2024-11-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,S,Casal
+1156,2026-02-25,Compras de supermercado,Atacadão,Alimentação,Supermercado,"R$ 203,33",Cartão de crédito,Variável,S,Casal
+628,2025-01-20,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,200.78,Cartão de crédito,Variável,sim,Filho 2
+1327,2026-07-07,Pizza,iFood,alimentação,Restaurantes e delivery,119.11,Pix,Variável,N,Casal
+685,04/03/2025,Corrida de aplicativo,Uber,transporte,Aplicativo,"R$ 29,15",Cartão de crédito,Variável,Não,Filho 1
+545,2024-11-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,336.00,Pix,Fixa,nao,Casal
+761,2025-05-05,Mensalidade de inglês,Escola de Idiomas, Educação ,Cursos,"471,91",Boleto,Fixa,Não,Filho 2
+806,2025-06-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1609.63,Boleto,Fixa,sim,Filho 1
+489,17/10/2024,Parque,Cinemark,lazer,Entretenimento,101.73,Cartão de crédito,Variável,N,Filho 2
+1075,2025-12-28,Padaria,Padaria Pão Quente,Alimentação,Padaria,53.72,Pix,Variável,sim,Pai
+1291,2026-06-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,,Boleto,Fixa,Sim,Casal
+84,08/12/2023,Internet fibra 500MB,Provedor Net,Comunicação,Internet,119.90,cartão de crédito,Fixa,Sim,Casal
+755,27/04/2025,Corrida de aplicativo,Uber,Transporte,Aplicativo,27.49,cartão de crédito,Variável,N,Mãe
+689,06-03-25,Aniversário Filho 1,Buffet Infantil / Mercado,Presentes,ANIVERSÁRIOS,1575.90,Cartão de crédito,Variável,nao,Filho 1
+90,2023-12-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,Sim,Pai
+797,28/05/2025,Padaria,Padaria Pão Quente,Alimentação,Padaria,44.71,Cartao de debito,Variável,sim,pai
+488,2024-10-15,Conta de energia,Companhia de Energia,Moradia,Energia,251.00,Débito automático,Variável,Sim,Casal
+37,2023-11-02,Pizza,Sushi Kai,Alimentação,Restaurantes e delivery,"182,99",Cartão de crédito,Variável,Não,filho 1
+1243,05/05/2026,Aluguel,Imobiliária Central,moradia,Aluguel,2425.50,Boleto,Fixa,S,Casal
+597,2025-01-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,Boleto,Fixa,Sim,Casal
+833,30/06/2025,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,336.00,Pix,Fixa,nao,Casal
+837,05/07/2025,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1609.63,Boleto,Fixa,S,Filho 1
+632,2025-01-21,Padaria,Padaria Pão Quente,Alimentação,Padaria,28.08,Pix,Variável,Sim,Pai
+344,28/06/2024,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,204.31,Pix,Variável,Sim,Casal
+1047,2025-12-10,Plano de saúde família,Unimed,Saúde,PLANO DE SAÚDE,1722.75,Boleto,Fixa,Sim,Casal
+503,2024-11-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,39.90,Cartão de crédito,Fixa,Não,Casal
+48,10/11/2023,Padaria,Padaria Pão Quente,Alimentação,Padaria,38.58,Cartão de débito,Variável,Sim,Pai
+737,2025-04-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,Sim,Mãe
+811,2025-06-08,Corrida de aplicativo,Uber,Transporte, Aplicativo ,22.61,Cartão de crédito,Variável,Não,Mãe
+960,05/10/2025,Aluguel,Imobiliária Central,Moradia,aluguel,2425.50,Boleto,Fixa,S,casal
+414,2024-08-21,Combustível,Posto Ipiranga,TRANSPORTE,Combustível,229.25,Cartão de débito,Variável,Sim,pai
+332,2024-06-18,Notebook novo (parcela 4/6),Kabum,Compras,Eletrônicos e eletrodomésticos,"R$ 650,00",Cartão de crédito,Variável,Não,Filho 1
+1182,2026-03-12,Plano celular pai,Operadora Móvel,Comunicacao,Celular,77.06,Cartão de crédito,Fixa,S,Pai
+1015,2025-11-15,Conta de energia,Companhia de Energia,Moradia,Energia,250.87,Débito automático,Variável,sim,Casal
+600,2025-01-06,Academia,SmartFit,Saúde,Academia,124.70,Cartão de crédito,Fixa,Não,Mãe
+1396,2026-08-24,Padaria,Padaria Pão Quente,Alimentação,PADARIA,22.27,Pix,Variável,Sim,Mãe
+490,18-10-24,Cosméticos,Barbearia Clássica,Cuidados pessoais,Higiene e beleza,156.29,Cartão de débito,Variável,Não,Pai
+838,2025-07-05,Aluguel,Imobiliária Central,Moradia,Aluguel,"R$ 2.310,00",,Fixa,S,Casal
+1390,19/08/2026,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,"R$ 163,63",Cartão de crédito,Variável,Sim,Filho 2
+487,15/10/2024,Combustível,Posto Shell,Transporte,Combustível,185.91,Cartão de débito,Variável,Sim,Pai
+589,27/12/2024,Combustível,Posto Shell,Transporte,Combustível,185.28,Cartão de crédito,Variável,Sim,Pai
+88,11/12/2023,Produtos de limpeza,Leroy Merlin,Moradia,Manutenção da casa,"215,73",Cartão de crédito,Variável,sim,Casal
+1254,10/05/2026,Plano de saúde família,Unimed,Saúde,Plano de saúde,1722.75,Boleto,Fixa,sim,Casal
+164,2024-02-10,Condomínio,Condomínio Residencial,moradia,Condomínio,527.77,Boleto,Fixa,Sim,Casal
+1104,14/01/2026,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,N,Casal
+1151,20-02-26,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,"45,62",Pix,Variável,Sim,
+30,2023-10-22,Corrida de aplicativo,Uber,Transporte,Aplicativo,"25,03",Cartão de crédito,Variável,Não,mãe
+318,2024-06-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1450.00,Boleto,Fixa,sim,Casal
+977,2025-10-15,Salão,Salão Beleza,Cuidados pessoais,HIGIENE E BELEZA,"53,27",Pix,Variável,Não,Pai
+794,2025-05-25,Compras de supermercado,Atacadão,Alimentação,Supermercado,214.74,Pix,Variável,S,Casal
+257,2024-04-18,Corrida de aplicativo,Uber,Transporte,Aplicativo,"R$ 32,77",Cartão de crédito,Variável,N,filho 1
+168,13/02/2024,Compras de supermercado,Mercado do Bairro,ALIMENTAÇÃO,Supermercado,91.76,Cartão de crédito,Variável,sim,Casal
+22,2023-10-15,Corrida de aplicativo,Uber,Transporte,Aplicativo,"R$ 26,90",Cartão de crédito,Variável,nao,Mãe
+1184,12/03/2026,Corrida de aplicativo,Uber,Transporte,Aplicativo,"30,56",,Variável,não,Mãe
+1316,2026-07-02,Corrida de aplicativo,Uber,Transporte,Aplicativo,22.05,Cartão de crédito,Variável,Não,Mãe
+776,2025-05-11,Ração e petiscos,Pet Shop Amigo Fiel,PETS,Ração,158.18,cartão de crédito,Variável,Sim,Filho 2
+782,2025-05-14,Compras de supermercado,Supermercado Bom Preço,alimentação,supermercado,215.68,Cartão de crédito,Variável,Sim,Casal
+1191,2026-03-16,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,166.82,Cartão de crédito,Variável,Sim,Filho 2
+195,2024-03-06,Academia,SmartFit,Saúde,Academia,119.90,Cartão de crédito,Fixa,Não,Mãe
+980,2025-10-18,Conta de água,Companhia de Saneamento,Moradia,Água,123.86,Débito automático,Variável,Sim,Casal
+310,2024-06-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1490.40,Boleto,Fixa,Sim,Filho 1
+559,08-12-24,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,109.84,Cartao de debito,Variável,S,Casal
+1171,2026-03-05,Padaria,Padaria Pão Quente,Alimentação,Padaria,"60,79",Pix,Variável,Sim,pai
+349,2024-07-04,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,493.26,Pix,Variável,Sim,Casal
+1079,2026-01-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,314.21,Cartão de crédito,Fixa,Sim,Pai
+336,2024-06-23,Hambúrguer,Sushi Kai,Alimentação,Restaurantes e delivery,151.68,Pix,Variável,Não,Filho 1
+786,2025-05-18,Conta de água,Companhia de Saneamento,Moradia,Água,135.09,Débito automático,Variável,sim,Casal
+555,05/12/2024,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,Boleto,Fixa,Sim,Casal
+214,18/03/2024,Conta de água,Companhia de Saneamento,Moradia,Água,"111,91",Débito automático,Variável,sim,Casal
+1132,2026-02-08,Combustível,Posto Shell,Transporte,Combustível,225.03,Cartão de débito,Variável,Sim,Pai
+705,14/03/2025,Streaming de filmes e séries,Max,Lazer,Assinaturas,"34,90",Cartão de crédito,Fixa,Não,Casal
+955,2025-10-03,Compras de supermercado,Atacadão,Alimentação,Supermercado,"R$ 554,77",pix,Variável,Sim,Casal
+718,2025-03-25,Combustível,Posto Ipiranga,Transporte,Combustível,226.81,Cartão de crédito,Variável,Sim,Pai
+1117,2026-01-28,Hambúrguer,Pizzaria Napoli,Alimentação,Restaurantes e delivery,"R$ 132,60",Cartão de crédito,Variável,Não,Filho 1
+163,2024-02-10,Pizza,Restaurante Sabor,alimentação,Restaurantes e delivery,161.31,,Variável,N,Filho 1
+295,2024-05-18,Notebook novo (parcela 3/6),Kabum,compras,Eletrônicos e eletrodomésticos,650.00,CARTÃO DE CRÉDITO,Variável,Não,Filho 1
+1286,2026-06-06,Academia,SmartFit,Saúde,academia,129.68,Cartão de crédito,Fixa,nao,Mãe
+120,06/01/2024,Padaria,Padaria Pão Quente,Alimentação, Padaria ,53.43,Cartão de débito,Variável,Sim,Pai
+406,18/08/2024,Conta de água,Companhia de Saneamento,Moradia,Água,116.48,Débito automático,Variável,sim,Casal
+1217,2026-04-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1722.75,Boleto,Fixa,Sim,Casal
+505,2024-11-04,Feira / hortifrúti,Feira Livre, Alimentação ,Hortifruti,139.96,PIX,Variável,S,Mãe
+934,12-09-25,Plano celular mãe,Operadora Móvel, Comunicação ,Celular,"R$ 73,40",Cartão de crédito,Fixa,Sim,Mãe
+608,10-01-25,Plano de saúde família,Unimed,saúde,Plano de saúde,1580.50,Boleto,Fixa,sim,Casal
+400,2024-08-12,Plano celular pai,Operadora Móvel, Comunicação ,Celular,69.90,Cartão de crédito,Fixa,S,Pai
+183,2024-02-27,Compras de supermercado,Mercado do Bairro,Alimentação,supermercado,"72,26",Cartão de crédito,Variável,Sim,Casal
+1038,2025-12-05,Sushi,Burger House,Alimentação,Restaurantes e delivery,"R$ 194,57",Pix,Variável,nao,Filho 1
+1324,2026-07-06,Academia,SmartFit,Saúde,Academia,129.68,Cartão de crédito,Fixa,Não,Mãe
+834,2025-07-01,Seguro do carro (parcela),Porto Seguro,Transporte, Seguro auto ,299.25,Cartão de crédito,Fixa,Sim,
+330,17-06-24,Padaria,Padaria Pão Quente,Alimentação,Padaria,36.05,Cartão de débito,Variável,S,Mãe
+1021,19/11/2025,Restaurante,Restaurante Sabor,Alimentação,Restaurantes e delivery,78.86,Cartão de crédito,Variável,Não,Pai
+1417,2026-09-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,"1722,75",Boleto,Fixa,sim,Casal
+919,2025-09-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,Boleto,Fixa,S,Casal
+311,05-06-24,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,445.20,Boleto,Fixa,não,Filho 2
+1281,2026-06-04,Medicamentos,Farmácia,Saúde,FARMÁCIA,130.67,Cartão de débito,Variável,Sim,Filho 2
+631,21/01/2025,Corrida de aplicativo,Uber,Transporte,Aplicativo,"50,01",Cartão de crédito,Variável,N,Mãe
+60,2023-11-18,Corrida de aplicativo,Uber,Transporte,Aplicativo,39.83,Cartão de crédito,Variável,Não,Mãe
+1393,2026-08-21,Cinema,Cinemark,Lazer,Entretenimento,178.48,Cartão de crédito,Variável,nao,Casal
+944,2025-09-18,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,97.00,Pix,Variável,sim,Mãe
+1409,2026-09-05,Mensalidade de inglês,Escola de Idiomas,EDUCAÇÃO,Cursos,500.23,Boleto,Fixa,nao,
+1149,2026-02-18,Conta de água,Companhia de Saneamento,MORADIA,ÁGUA,"R$ 133,34",débito automático,Variável,Sim,Casal
+304,2024-05-28,Compras de supermercado,Atacadão,Alimentação,Supermercado,196.52,Cartão de débito,Variável,Sim,Casal
+288,2024-05-15,Conta de energia,Companhia de Energia, Moradia ,Energia,203.73,Débito automático,Variável,S,Casal
+1425,2026-09-15,Conta de energia,Companhia de Energia,Moradia,Energia,"223,86",DÉBITO AUTOMÁTICO,Variável,Sim,Casal
+1013,14/11/2025,Streaming de filmes e séries,Max,lazer,Assinaturas,34.90,Cartão de crédito,Fixa,não,Casal
+89,2023-12-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,Sim,Mãe
+1250,2026-05-07,Compras de supermercado,Supermercado Bom Preço,alimentação,Supermercado,98.70,Cartão de débito,Variável,S,Casal
+521,12/11/2024,Plano celular pai,Operadora Móvel,Comunicacao,Celular,73.40,Cartão de crédito,Fixa,S,pai
+852,2025-07-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,Sim,Pai
+1195,2026-03-22,Corrida de aplicativo,Uber,TRANSPORTE,Aplicativo,26.87,Cartão de crédito,Variável,não,Mãe
+1158,25/02/2026,Delivery,Sushi Kai, Alimentação ,Restaurantes e delivery,158.23,cartão de crédito,Variável,Não,Pai
+814,2025-06-10,Compras de supermercado,Atacadão,Alimentação,SUPERMERCADO,189.12,Cartão de débito,Variável,sim,Casal
+742,2025-04-14,Padaria,Padaria Pão Quente,Alimentação,Padaria,53.90,Cartão de débito,Variável,Sim,Mãe
+1035,2025-12-01,Compras de supermercado,Atacadão,Alimentação,Supermercado,598.65,Cartão de débito,Variável,S,Casal
+550,03/12/2024,Streaming de vídeo,Netflix,Lazer,Assinaturas,39.90,Cartão de crédito,Fixa,N,Casal
+990,2025-10-27,Padaria,Padaria Pão Quente,Alimentação,Padaria,55.22,Cartão de débito,Variável,Sim,Mãe
+1055,2025-12-15,Compras de supermercado,Mercado do Bairro,alimentação, Supermercado ,194.93,Pix,Variável,Sim,Casal
+700,2025-03-12,Combustível,Posto Ipiranga,Transporte,Combustível,"R$ 163,67",Cartão de débito,Variável,Sim,Pai
+1369,2026-08-05,Corrida de aplicativo,Uber,Transporte,Aplicativo,54.09,Cartão de crédito,Variável,nao,Filho1
+408,2024-08-18,Combustível,Posto Shell,Transporte,Combustível,204.60,Cartão de crédito,Variável,Sim,Pai
+1247,2026-05-06,Combustível,Posto Ipiranga,Transporte,Combustível,"R$ 248,15",Cartão de débito,Variável,Sim,Pai
+6,2023-10-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,boleto,Fixa,Sim,Casal
+1309,2026-06-22,Padaria,Padaria Pão Quente,Alimentação,Padaria,34.25,Cartao de debito,Variável,Sim,Pai
+26,2023-10-19,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,154.28,Pix,Variável,S,Casal
+321,2024-06-11,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,101.88,Pix,Variável,sim,Mãe
+1288,07/06/2026,Streaming de música,Spotify,LAZER,Assinaturas,40.90,Cartão de crédito,Fixa,Não,Filho 1
+376,2024-07-20,Viagem de férias (hospedagem),Booking,Viagens,Hospedagem,4159.67,Cartão de crédito,Variável,Não,Casal
+16,2023-10-10,Plano de saúde família,Unimed,saúde,Plano de saúde,1450.00,Boleto,Fixa,S,Casal
+1405,03/09/2026,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,Cartão de crédito,Fixa,Não,Casal
+1398,2026-08-25,Utensílios domésticos,Loja de Utilidades,Moradia,Manutenção da casa,383.36,Cartão de crédito,Variável,Sim,Casal
+220,23/03/2024,Cinema,Sympla,Lazer,Entretenimento,"R$ 296,21",Cartão de crédito,Variável,nao,Casal
+394,09/08/2024,Sushi,iFood,Alimentação,Restaurantes e delivery,115.10,Pix,Variável,não,Filho 1
+967,2025-10-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,5679200.00,Boleto,Fixa,Sim,Casal
+1052,2025-12-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,77.06,cartão de crédito,Fixa,Sim,Mãe
+1235,2026-04-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,352.80,Pix,Fixa,não,Casal
+566,11/12/2024,Corrida de aplicativo,Uber,Transporte,Aplicativo,48.06,Cartão de crédito,Variável,Não,Filho 1
+377,2024-07-20,Corrida de aplicativo,Uber,Transporte,Aplicativo,"38,48",Cartão de crédito,Variável,Não,Filho 1
+1048,2025-12-10,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,181.87,Cartão de crédito,Variável,S,Filho 2
+688,2025-03-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1609.63,Boleto,Fixa,sim,Filho 1
+900,14-08-25,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,202.95,Pix,Variável,S,Casal
+1190,2026-03-15,Padaria,Padaria Pão Quente,Alimentação,Padaria,34.24,Pix,Variável,Sim,Pai
+1005,09/11/2025,Padaria,Padaria Pão Quente,Alimentação,Padaria,"54,29",Cartão de débito,Variável,Sim,Mãe
+1203,2026-04-03,Medicamentos,Farmácia,Saúde,Farmácia,97.70,Cartão de crédito,Variável,Sim,Filho 2
+378,2024-07-21,Padaria,Padaria Pão Quente,Alimentação,Padaria,53.52,Cartão de débito,Variável,S,Pai
+1072,26/12/2025,Corrida de aplicativo,Uber,TRANSPORTE,Aplicativo,28.26,Cartão de crédito,Variável,Não,Mãe
+1092,2026-01-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,134.72,cartão de crédito,Fixa,Sim,Casal
+719,2025-03-28,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,211.02,Cartão de débito,Variável,Sim,Casal
+888,2025-08-08,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,196.17,Cartão de crédito,Variável,Sim,
+402,13/08/2024,Corrida de aplicativo,Uber,transporte,Aplicativo,30.53,cartão de crédito,Variável,N,Filho 1
+1231,2026-04-20,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,"R$ 227,05",Cartão de crédito,Variável,Sim,Filho 2
+2,2023-10-02,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,190.13,Pix,Variável,Sim,Casal
+1377,2026-08-11,Vacinas do pet,Clínica Veterinária,Pets,Veterinário,470.84,Pix,Variável,Sim,Filho 2
+1090,2026-01-07,Streaming de música,Spotify,Lazer,Assinaturas,"R$ 40,90",Cartão de crédito,Fixa,Não,Filho 1
+161,10/02/2024,Plano de saúde família,Unimed,Saúde,Plano de saúde,1450.00,Boleto,Fixa,Sim,Casal
+773,10/05/2025,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,Sim,Casal
+64,2023-11-23,Corrida de aplicativo,Uber,Transporte,Aplicativo,24.69,Cartão de crédito,Variável,Não,Filho 1
+626,2025-01-19,Medicamentos,Farmácia, Saúde ,Farmácia,142.20,Cartão de crédito,Variável,S,Pai
+1375,10/08/2026,Plano de saúde família,Unimed,SAÚDE,Plano de saúde,1722.75,Boleto,Fixa,Sim,Casal
+353,2024-07-06,Academia,SmartFit,Saúde,Academia,"119,90",Cartão de crédito,Fixa,não,Mae
+437,2024-09-07,Streaming de música,Spotify,Lazer,Assinaturas,"R$ 34,90",Cartão de crédito,Fixa,não,Filho 1
+34,2023-10-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,320.00,pix,Fixa,N,Casal
+883,2025-08-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,471.91,boleto,Fixa,nao,Filho 2
+189,03-03-24,Streaming de vídeo,Netflix,lazer,Assinaturas,"39,90",Cartão de crédito,Fixa,N,Casal
+1279,2026-06-03,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,455.03,Cartão de débito,Variável,Sim,Casal
+662,2025-02-15,Conta de energia,Companhia de Energia,Moradia,Energia,309.04,Débito automático,Variável,Sim,Casal
+1097,2026-01-10,Delivery,Pizzaria Napoli,ALIMENTAÇÃO,Restaurantes e delivery,128.94,Cartão de crédito,Variável,nao,Pai
+1168,05-03-26,Aluguel,Imobiliária Central,Moradia,Aluguel,2425.50,BOLETO,Fixa,sim,Casal
+661,2025-02-15,Restaurante,Sushi Kai,Alimentação,Restaurantes e delivery,100.72,Cartão de crédito,Variável,Não,Pai
+756,2025-04-28,Padaria,Padaria Pão Quente,Alimentação,Padaria,61.83,Pix,Variável,Sim,Pai
+1421,12/09/2026,Plano celular pai,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,Sim,Pai
+1143,14/02/2026,Medicamentos,Farmácia,Saúde,Farmácia,"77,52",Cartão de crédito,Variável,Sim,Pai
+923,2025-09-08,Material de manutenção,Casa & Construção,Moradia,Manutenção da casa,298.53,Pix,Variável,sim,Casal
+699,2025-03-11,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,144.07,Pix,Variável,Sim,Mãe
+693,2025-03-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,"127,09",Cartão de crédito,Fixa,Sim,Casal
+629,2025-01-20,Acessórios,Loja Renner,Vestuário,Roupas e calçados,137.90,Cartão de crédito,Variável,não,Mãe
+32,2023-10-26,Delivery,Restaurante Sabor,Alimentação,Restaurantes e delivery,122.75,Pix,Variável,não,Casal
+769,2025-05-08,Internet fibra 500MB,Provedor Net,comunicação,Internet,"R$ 127,09",cartão de crédito,Fixa,Sim,Casal
+1415,2026-09-08,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,68.98,Pix,Variável,Sim,Casal
+1017,16/11/2025,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,181.07,PIX,Variável,Sim,Casal
+72,01/12/2023,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,285.00,Cartão de crédito,Fixa,Sim,Pai
+315,2024-06-08,Combustível,Posto Shell,Transporte,Combustível,165.33,Cartão de crédito,Variável,Sim,Pai
+646,2025-02-06,Academia,SmartFit,Saúde,Academia,124.70,Cartão de crédito,Fixa,não,Mãe
+1350,2026-07-20,Roupas infantis,Riachuelo,Vestuário,Roupas e calçados,"R$ 281,64",Cartão de crédito,Variável,Não,Filho 2
+788,2025-05-18,Cosméticos,Barbearia Clássica,Cuidados pessoais,Higiene e beleza,155.48,Pix,Variável,não,Mãe
+899,2025-08-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Casal
+466,2024-10-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,Boleto,Fixa,S,Casal
+501,30/10/2024,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,336.00,Pix,Fixa,Não,Casal
+267,2024-05-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,"R$ 285,00",Cartão de crédito,Fixa,sim,Pai
+1064,2025-12-20,Compras de supermercado,Mercado do Bairro,Alimentacao,Supermercado,"R$ 204,01",Cartão de débito,Variável,Sim,Casal
+732,10/04/2025,Corrida de aplicativo,Uber,Transporte,Aplicativo,"R$ 16,48",Cartão de crédito,Variável,não,Mãe
+831,2025-06-28,Padaria,Padaria Pão Quente,Alimentação,Padaria,65.76,Cartão de débito,Variável,S,mãe
+180,2024-02-20,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,169.67,Cartão de crédito,Variável,Sim,Filho 2
+1178,2026-03-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,134.72,Cartão de crédito,Fixa,Sim,Casal
+28,20/10/2023,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,43.26,Pix,Variável,Sim,Casal
+273,2024-05-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,Boleto,Fixa,sim,Casal
+229,01-04-24,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,285.00,Cartão de crédito,Fixa,Sim,Pai
+535,18/11/2024,Combustível,Posto Ipiranga,Transporte,Combustível,217.09,,Variável,S,Pai
+1130,07/02/2026,Streaming de música,Spotify, Lazer ,Assinaturas,40.90,Cartão de crédito,Fixa,nao,Filho 1
+998,2025-11-05,Mensalidade de inglês,Escola de Idiomas, Educação ,Cursos,471.91,Boleto,Fixa,nao,Filho 2
+1037,2025-12-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,"R$ 44,90",Cartão de crédito,Fixa,Não,Casal
+232,05/04/2024,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,Boleto,Fixa,Sim,Casal
+1176,2026-03-07,Streaming de música,Spotify,Lazer,Assinaturas,40.90,Cartao de credito,Fixa,Não,filho 1
+594,02/01/2025,Pizza,Burger House,Alimentação,restaurantes e delivery,102.26,Cartão de crédito,Variável,Não,Mãe
+1098,2026-01-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,Sim,Mãe
+1216,2026-04-09,Padaria,Padaria Pão Quente,Alimentação,Padaria,43.50,Pix,Variável,sim,pai
+894,2025-08-12,Padaria,Padaria Pão Quente,Alimentação,padaria,22.59,Cartão de débito,Variável,Sim,Mãe
+210,15/03/2024,Conta de energia,Companhia de Energia,Moradia,Energia,300.21,,Variável,Sim,Casal
+913,2025-09-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,299.25,Cartão de crédito,Fixa,Sim,Pai
+911,2025-08-28,Lâmpadas e ferramentas,Loja de Utilidades,Moradia,Manutenção da casa,155.05,Cartão de crédito,Variável,S,Casal
+821,2025-06-15,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,191.37,Cartão de crédito,Variável,Sim,Filho 2
+1418,10-09-26,Corrida de aplicativo,Uber,Transporte,Aplicativo,"20,33",Cartão de crédito,Variável,não,Mãe
+753,2025-04-24,Calçados,C&A,Vestuário,Roupas e calçados,107.16,Cartão de crédito,Variável,Não,Mãe
+709,17-03-25,Salão,Barbearia Clássica,Cuidados pessoais,Higiene e beleza,160.07,,Variável,Não,Pai
+1359,2026-07-28,Corrida de aplicativo,Uber,Transporte,Aplicativo,24.30,Cartão de crédito,Variável,Não,Mãe
+636,2025-02-01,Seguro do carro (parcela),Porto Seguro,Transporte,SEGURO AUTO,299.25,Cartão de crédito,Fixa,Sim,Pai
+241,2024-04-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,"1450,00",Boleto,Fixa,Sim,Casal
+351,2024-07-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,445.20,Boleto,Fixa,N,filho 2
+299,21/05/2024,Compras de supermercado,Atacadão,Alimentação,Supermercado,220.06,Cartão de débito,Variável,Sim,casal
+76,2023-12-03,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,232.40,Cartão de débito,Variável,sim,Casal
+726,05-04-25,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1609.63,boleto,Fixa,Sim,Filho 1
+945,21/09/2025,Compras de supermercado,Supermercado Bom Preço,ALIMENTAÇÃO,Supermercado,78.95,Cartão de débito,Variável,Sim,Casal
+1147,15/02/2026,Compras de supermercado,Supermercado Bom Preço,ALIMENTAÇÃO,Supermercado,"205,38",Cartão de crédito,Variável,sim,Casal
+374,2024-07-18,Feira / hortifrúti,Feira Livre,ALIMENTAÇÃO,Hortifruti,"R$ 101,11",Pix,Variável,Sim,Mãe
+339,27/06/2024,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,113.62,Cartão de crédito,Variável,Sim,Casal
+1166,2026-03-02,Calçados,C&A,Vestuário,Roupas e calçados,177.13,Cartão de crédito,Variável,não,Filho 2
+953,2025-09-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,336.00,Pix,Fixa,nao,Casal
+417,25-08-24,Compras de supermercado,Atacadão,alimentação,Supermercado,212.21,Cartão de crédito,Variável,Sim,Casal
+1293,10/06/2026,Padaria,Padaria Pão Quente,Alimentação,Padaria,61.73,Cartão de débito,Variável,S,Mãe
+1144,2026-02-15,Padaria,Padaria Pão Quente, Alimentação ,Padaria,46.56,Pix,Variável,sim,Mãe
+620,2025-01-15,IPVA 2025 (1/3),Detran,Transporte,IPVA,832.00,boleto,Fixa,Sim,Pai
+1363,2026-08-03,Compras de supermercado,Atacadão,Alimentação,Supermercado,389.49,Pix,Variável,sim,Casal
+573,2024-12-17,Combustível,Posto Shell,Transporte,Combustível,192.59,Cartão de crédito,Variável,S,Pai
+584,2024-12-24,Ceia e festa de fim de ano,Supermercado Bom Preço, Alimentação ,Datas especiais,945.75,Cartão de crédito,Variável,Não,Casal
+212,2024-03-16,Padaria,Padaria Pão Quente,Alimentação,Padaria,18.62,Cartão de débito,Variável,sim,Mãe
+657,12/02/2025,Plano celular mãe,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,Sim,Mãe
+500,2024-10-27,Medicamentos,Farmácia,saúde,Farmácia,148.93,Pix,Variável,Sim,Pai
+568,12/12/2024,Plano celular mãe,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,Sim,Mãe
+497,2024-10-25,Combustível,Posto Ipiranga,TRANSPORTE,Combustível,204.64,Cartão de crédito,Variável,S,pai
+740,2025-04-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,Sim,Pai
+774,10/05/2025,Padaria,Padaria Pão Quente,Alimentacao,Padaria,42.20,Cartão de débito,Variável,Sim,pai
+1204,2026-04-03,Streaming de vídeo,Netflix,Lazer,ASSINATURAS,44.90,Cartão de crédito,Fixa,nao,Casal
+235,06/04/2024,Academia,SmartFit,Saúde,Academia,119.90,Cartão de crédito,Fixa,Não,Mãe
+1200,01/04/2026,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,314.21,Cartão de crédito,Fixa,Sim,Pai
+1230,2026-04-20,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,56.74,Pix,Variável,Sim,Casal
+1413,07/09/2026,Parque,Steam,Lazer,Entretenimento,132.81,Cartão de crédito,Variável,Não,Casal
+522,12-11-24,Padaria,Padaria Pão Quente,Alimentação,Padaria,54.75,Pix,Variável,S,Pai
+659,2025-02-12,Padaria,Padaria Pão Quente,Alimentação,Padaria,46.71,Cartão de débito,Variável,sim,Mãe
+578,19/12/2024,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,234.43,Cartão de crédito,Variável,S,Casal
+1342,2026-07-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartao de credito,Fixa,nao,Casal
+1347,18/07/2026,Conta de água,Companhia de Saneamento,Moradia,Água,131.43,Débito automático,Variável,Sim,Casal
+444,2024-09-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,"R$ 69,90",Cartão de crédito,Fixa,Sim,Mãe
+1371,2026-08-07,Streaming de música,Spotify,lazer,Assinaturas,40.90,Cartão de crédito,Fixa,nao,filho 1
+502,2024-11-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,299.25,Cartão de crédito,Fixa,sim,Pai
+735,10/04/2025,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,Sim,Casal
+654,2025-02-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,Sim,Casal
+228,2024-03-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,320.00,,Fixa,Não,Casal
+1008,10-11-25,Combustível,Posto Shell,Transporte,Combustível,188.21,Cartão de débito,Variável,Sim,Pai
+426,2024-09-01,Padaria,Padaria Pão Quente,Alimentação,Padaria,36.28,Pix,Variável,sim,Mãe
+1352,2026-07-22,Corrida de aplicativo,Uber,Transporte,Aplicativo,23.74,Cartão de crédito,Variável,não,Filho 1
+1344,15/07/2026,Conta de energia,Companhia de Energia,Moradia,Energia,239.42,Débito automático,Variável,Sim,Casal
+1152,2026-02-21,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,89.02,Cartão de débito,Variável,sim,Casal
+475,2024-10-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,"R$ 127,09",Cartão de crédito,Fixa,Sim,Casal
+39,2023-11-04,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,"118,16",pix,Variável,sim,Mãe
+85,2023-12-10,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,105.02,Cartão de crédito,Variável,S,Casal
+889,2025-08-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,sim,Casal
+730,2025-04-07,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,N,Filho 1
+407,18/08/2024,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Racao,143.09,Cartão de crédito,Variável,Sim,Filho 2
+159,2024-02-08,Internet fibra 500MB,Provedor Net, Comunicação ,Internet,119.90,Cartão de crédito,Fixa,S,Casal
+314,2024-06-07,Streaming de música,Spotify,Lazer,Assinaturas,"34,90",Cartão de crédito,Fixa,Não,Filho 1
+1271,23/05/2026,Corrida de aplicativo,Uber,Transporte,Aplicativo,18.27,Cartão de crédito,Variável,N,Filho 1
+1278,03/06/2026,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,Cartão de crédito,Fixa,Não,casal
+371,15/07/2024,Passeios e alimentação na viagem,Diversos,Viagens,Passeios,1235.97,Cartão de crédito,Variável,N,Casal
+1328,08/07/2026,Internet fibra 500MB,Provedor Net,Comunicacao,Internet,134.72,Cartão de crédito,Fixa,Sim,Casal
+1033,2025-11-30,Diarista (2x no mês),Diarista Maria, Moradia ,Serviços domésticos,352.80,Pix,Fixa,Não,Casal
+609,2025-01-10,Combustível,Posto Shell,Transporte,Combustível,216.56,Cartão de crédito,Variável,Sim,pai
+897,2025-08-13,Corrida de aplicativo,Uber,Transporte,Aplicativo,32.10,cartão de crédito,Variável,N,Mãe
+316,2024-06-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,"R$ 119,90",Cartão de crédito,Fixa,Sim,Casal
+1174,06/03/2026,Combustível,Posto Ipiranga,Transporte,Combustível,189.45,Cartão de crédito,Variável,S,Pai
+898,2025-08-14,Roupas infantis,Loja Renner,Vestuário,Roupas e calçados,474.77,Cartão de crédito,Variável,N,Pai
+1123,2026-02-03,Corrida de aplicativo,Uber,Transporte, Aplicativo ,48.57,Cartão de crédito,Variável,Não,Filho 1
+151,05/02/2024,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,Boleto,Fixa,S,casal
+403,2024-08-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,nao,Casal
+1392,20-08-26,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,161.75,Pix,Variável,Sim,Casal
+1023,2025-11-20,Padaria,Padaria Pão Quente,Alimentação,Padaria,39.76,cartão de débito,Variável,Sim,Pai
+192,2024-03-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,Boleto,Fixa,S,Casal
+474,2024-10-07,Compras de supermercado,Supermercado Bom Preço, Alimentação ,Supermercado,217.05,Cartao de debito,Variável,Sim,Casal
+1136,2026-02-11,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,185.24,Cartão de crédito,Variável,sim,Filho 2
+1147,15/02/2026,Compras de supermercado,Supermercado Bom Preço,ALIMENTAÇÃO,Supermercado,"205,38",Cartão de crédito,Variável,sim,Casal
+826,2025-06-19,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,123.90,Cartão de débito,Variável,sim,Casal
+165,2024-02-11,Padaria,Padaria Pão Quente,Alimentação,Padaria,37.46,Cartão de débito,Variável,Sim,pai
+772,2025-05-10,Condomínio,Condomínio Residencial,Moradia, Condomínio ,"R$ 557,54",Boleto,Fixa,Sim,Casal
+1233,2026-04-22,Compras de supermercado,Supermercado Bom Preço,Alimentacao,Supermercado,135.35,Cartão de crédito,Variável,Sim,Casal
+1111,2026-01-20,Padaria,Padaria Pão Quente,Alimentação,Padaria,55.51,Pix,Variável,Sim,Pai
+96,2023-12-16,Medicamentos,Farmácia,Saúde,Farmácia,220.23,Cartão de débito,Variável,S,Pai
+1285,2026-06-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,500.23,Boleto,Fixa,Não,Filho 2
+1346,17/07/2026,Corrida de aplicativo,Uber,Transporte,Aplicativo,"R$ 16,57",Cartão de crédito,Variável,Não,Mãe
+865,19/07/2025,Cosméticos,Barbearia Clássica,Cuidados pessoais,Higiene e beleza,70.11,Cartão de débito,Variável,nao,Mãe
+679,2025-03-01,Padaria,Padaria Pão Quente,Alimentação,Padaria,23.66,CARTÃO DE DÉBITO,Variável,Sim,Mãe
+396,2024-08-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,539.48,Boleto,Fixa,S,Casal
+1068,2025-12-24,Combustível,Posto Ipiranga,Transporte,Combustível,216.35,Cartão de débito,Variável,S,Pai
+1402,2026-09-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,314.21,Cartão de crédito,Fixa,S,Pai
+663,2025-02-15,IPVA 2025 (2/3),Detran,Transporte,IPVA,832.00,boleto,Fixa,Sim,Pai
+1215,09/04/2026,Restaurante,Pizzaria Napoli,Alimentacao,RESTAURANTES E DELIVERY,118.10,Cartao de credito,Variável,não,casal
+764,2025-05-05,Banho e tosa,Clínica Veterinária,Pets,Veterinário,"R$ 361,06",Pix,Variável,Sim,Filho 2
+872,2025-07-28,Padaria,Padaria Pão Quente,Alimentação,Padaria,55.36,Cartão de débito,Variável,Sim,Pai
+708,2025-03-16,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,172.54,Cartão de crédito,Variável,Sim,Filho 2
+915,2025-09-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,Cartão de crédito,Fixa,N,Casal
+1121,02/02/2026,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,244.54,Cartão de débito,Variável,Sim,Casal
+1260,2026-05-13,Hambúrguer,Burger House,Alimentação,Restaurantes e delivery,71.11,Cartão de crédito,Variável,N,Filho 1
+139,2024-01-21,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,158.52,Pix,Variável,Sim,casal
+738,12/04/2025,Corrida de aplicativo,Uber,Transporte,Aplicativo,48.52,Cartão de crédito,Variável,Não,Filho 1
+1007,2025-11-10,Condomínio,Condomínio Residencial, Moradia ,Condomínio,"570,05",boleto,Fixa,sim,Casal
+191,2024-03-05,Restaurante,Pizzaria Napoli,Alimentação,Restaurantes e delivery,"53,26",Pix,Variável,N,Mãe
+433,2024-09-05,Mensalidade escolar,Colégio Horizonte, Educação ,Mensalidade escolar,"1490,40",Boleto,Fixa,Sim,Filho 1
+1276,2026-05-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,352.80,Pix,Fixa,Não,casal
+873,2025-07-28,Combustível,Posto Ipiranga,Transporte,Combustível,"185,07",,Variável,S,pai
+14,08/10/2023,Internet fibra 500MB,Provedor Net,Comunicação,Internet,"R$ 119,90",cartão de crédito,Fixa,S,Casal
+431,2024-09-04,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,112.27,pix,Variável,S,mãe
+222,25/03/2024,Combustível,Posto Shell,Transporte,Combustível,172.23,Cartão de crédito,Variável,sim,Pai
+595,03-01-25,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,Cartão de crédito,Fixa,Não,Casal
+537,2024-11-19,Delivery,Burger House,Alimentação,Restaurantes e delivery,124.38,Pix,Variável,não,Filho 1
+204,10/03/2024,Plano de saúde família,Unimed,Saude,Plano de saúde,1450.00,Boleto,Fixa,Sim,Casal
+933,12/09/2025,Geladeira nova,Casas Bahia,Compras,Eletrônicos e eletrodomésticos,3290.00,Cartão de crédito,Variável,sim,Casal
+650,08/02/2025,Internet fibra 500MB,Provedor Net,Comunicação,Internet,127.09,Cartão de crédito,Fixa,S,Casal
+892,2025-08-10,Aniversário Filho 2,Buffet Infantil / Mercado,presentes,aniversários,605.93,Cartão de crédito,Variável,Não,Filho 2
+162,2024-02-10,Sushi,Sushi Kai,Alimentacao,Restaurantes e delivery,95.00,Cartão de crédito,Variável,Não,Mãe
+460,01/10/2024,Pizza,Burger House,Alimentação,Restaurantes e delivery,"153,52",pix,Variável,nao,Mãe
+4,2023-10-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,39.90,Cartão de crédito,Fixa,Não,Casal
+1237,01/05/2026,Corrida de aplicativo,Uber,Transporte,Aplicativo,"25,79",Cartão de crédito,Variável,nao,Mãe
+372,2024-07-15,Conta de energia,Companhia de Energia, Moradia ,Energia,220.85,Débito automático,Variável,sim,Casal
+647,2025-02-07,Lâmpadas e ferramentas,Loja de Utilidades,moradia,Manutenção da casa,291.58,Cartão de crédito,Variável,S,Casal
+528,2024-11-15,Medicamentos,Farmácia,Saúde,Farmácia,254.97,Pix,Variável,Sim,Filho 2
+1351,2026-07-21,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,228.37,Cartão de débito,Variável,S,Casal
+69,2023-11-28,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,122.02,Cartão de crédito,Variável,sim,Casal
+586,2024-12-26,Corrida de aplicativo,Uber,Transporte,Aplicativo,19.97,Cartão de crédito,Variável,não,Mãe
+45,2023-11-07,Streaming de música,Spotify, Lazer ,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Filho 1
+949,2025-09-25,Combustível,Posto Shell,Transporte,Combustível,171.57,Cartão de crédito,Variável,S,Pai
+98,17/12/2023,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,150.80,Cartão de crédito,Variável,Sim,Filho 2
+610,2025-01-10,Sushi,Restaurante Sabor,Alimentação,Restaurantes e delivery,"199,12",Pix,Variável,não,Mãe
+508,2024-11-05,Mensalidade escolar,Colégio Horizonte,educação,Mensalidade escolar,1490.40,Boleto,Fixa,sim,Filho 1
+1416,2026-09-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,591.33,Boleto,Fixa,Sim,Casal
+1198,26/03/2026,Padaria,Padaria Pão Quente, Alimentação ,Padaria,40.56,Cartão de débito,Variável,sim,Mãe
+941,15/09/2025,Conta de energia,Companhia de Energia,Moradia,Energia,227.33,Débito automático,Variável,S,Casal
+56,2023-11-16,Delivery,iFood,Alimentação,Restaurantes e delivery,180.39,Pix,Variável,Não,Pai
+516,2024-11-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,S,Casal
+1163,2026-02-28,Delivery,Sushi Kai,Alimentação,Restaurantes e delivery,178.97,Pix,Variável,Não,Pai
+384,2024-08-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,285.00,Cartão de crédito,Fixa,sim,Pai
+1377,2026-08-11,Vacinas do pet,Clínica Veterinária,Pets,Veterinário,470.84,Pix,Variável,Sim,Filho 2
+572,2024-12-15,Conta de energia,Companhia de Energia,Moradia,Energia,300.47,Débito automático,Variável,Sim,Casal
+190,2024-03-04,Feira / hortifrúti,Feira Livre,alimentação,Hortifruti,130.68,Pix,Variável,Sim,mãe
+1387,2026-08-16,Combustível,Posto Shell,Transporte,Combustível,221.32,Cartão de crédito,Variável,Sim,pai
+1220,2026-04-12,Show/ingressos,Sympla,Lazer,Entretenimento,113.32,Cartão de crédito,Variável,Não,Filho 1
+627,20-01-25,Licenciamento anual,Detran,Transporte,Licenciamento,"R$ 187,20",Boleto,Fixa,S,Pai
+613,2025-01-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,Sim,Pai
+1062,19-12-25,Padaria,Padaria Pão Quente,Alimentação,Padaria,33.63,Pix,Variável,S,Pai
+73,2023-12-02,Combustível,Posto Ipiranga,Transporte,Combustivel,157.31,Cartão de crédito,Variável,Sim,Pai
+556,2024-12-05,Mensalidade escolar,Colégio Horizonte,Educação,MENSALIDADE ESCOLAR,"R$ 1.490,40",Boleto,Fixa,Sim,Filho 1
+401,2024-08-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,S,Mãe
+155,2024-02-07,Compras de supermercado,Atacadão,Alimentação,Supermercado,"R$ 220,73",Pix,Variável,Sim,Casal
+450,17/09/2024,Combustível,Posto Shell,Transporte,Combustivel,205.62,Cartão de débito,Variável,sim,Pai
+1411,2026-09-06,Academia,SmartFit, Saúde ,Academia,129.68,Cartão de crédito,Fixa,nao,Mãe
+1439,2026-09-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,"R$ 352,80",Pix,Fixa,Não,Casal
+252,2024-04-17,Medicamentos,Farmácia,Saúde,Farmácia,188.33,Cartão de débito,Variável,Sim,Filho 2
+751,20-04-25,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,50.28,Pix,Variável,Sim,Casal
+1183,2026-03-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,Sim,Mãe
+972,2025-10-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,77.06,Cartao de credito,Fixa,Sim,Mãe
+964,2025-10-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,"R$ 134,72",Cartão de crédito,Fixa,Sim,Casal
+465,2024-10-05,Combustível,Posto Shell,Transporte, Combustível ,206.43,Cartão de crédito,Variável,Sim,Pai
+611,2025-01-10,Padaria,Padaria Pão Quente,Alimentação,Padaria,29.03,Pix,Variável,Sim,Pai
+68,28/11/2023,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,216.18,Pix,Variável,Sim,Casal
+279,2024-05-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,119.90,Cartão de crédito,Fixa,Sim,Casal
+70,2023-11-28,Compras Black Friday (eletro),Magazine Luiza,Compras,Eletrônicos e eletrodomésticos,2193.45,Cartão de crédito,Variável,não,Casal
+614,2025-01-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,sim,Mãe
+666,17/02/2025,Combustível,Posto Shell,Transporte,Combustível,170.87,Cartao de debito,Variável,sim,Pai
+12,2023-10-08,Compras de supermercado,Mercado do Bairro,Alimentacao,Supermercado,"R$ 156,32",Pix,Variável,Sim,Casal
+1161,28/02/2026,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,352.80,Pix,Fixa,Não,Casal
+53,2023-11-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,Sim,Pai
+291,15/05/2024,Restaurante,Burger House,Alimentacao,Restaurantes e delivery,174.14,Pix,Variável,Não,Mãe
+365,2024-07-11,Combustível,Posto Ipiranga,Transporte,Combustível,178.01,Cartão de débito,Variável,S,Pai
+509,2024-11-05,Aluguel,Imobiliária Central, Moradia ,Aluguel,2310.00,Boleto,Fixa,Sim,Casal
+1314,30-06-26,Diarista (2x no mês),Diarista Maria,MORADIA,Serviços domésticos,"352,80",Pix,Fixa,não,Casal
+296,2024-05-19,Sushi,iFood,alimentação,Restaurantes e delivery,"R$ 136,87",Cartão de crédito,Variável,não,Pai
+1112,21/01/2026,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,131.21,Cartao de credito,Variável,Sim,Casal
+1338,2026-07-12,Pizza,Burger House,Alimentação,Restaurantes e delivery,144.40,Pix,Variável,não,Filho 1
+425,2024-09-01,Seguro do carro (parcela),Porto Seguro,transporte,Seguro auto,285.00,Cartão de crédito,Fixa,S,Pai
+1373,2026-08-09,Compras de supermercado,Atacadão,Alimentação,Supermercado,126.91,Pix,Variável,Sim,Casal
+25,2023-10-18,Hambúrguer,Sushi Kai,Alimentacao,Restaurantes e delivery,"173,39",Pix,Variável,Não,Pai
+1155,2026-02-24,Sushi,iFood, Alimentação ,Restaurantes e delivery,56.96,Cartão de crédito,Variável,Não,Pai
+527,2024-11-15,Conta de energia,Companhia de Energia,Moradia,Energia,259.94,Débito automático,Variável,Sim,Casal
+1274,2026-05-27,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,211.80,Cartão de débito,Variável,S,Casal
+533,17/11/2024,Corrida de aplicativo,Uber,Transporte,APLICATIVO,"R$ 37,73",Cartão de crédito,Variável,Não,Mãe
+151,05/02/2024,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,Boleto,Fixa,S,casal
+256,2024-04-18,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,"R$ 90,77",Pix,Variável,Sim,Mãe
+1383,14/08/2026,Corrida de aplicativo,Uber,Transporte,Aplicativo,17.94,Cartão de crédito,Variável,N,Mãe
+512,2024-11-06,Academia,SmartFit,Saúde,Academia,124.70,Cartão de crédito,Fixa,Não,Mãe
+710,2025-03-17,Jogo de videogame,Sympla,Lazer,Entretenimento,210.34,Cartão de crédito,Variável,Não,Filho 2
+468,2024-10-05,Padaria,Padaria Pão Quente,Alimentação,Padaria,"R$ 51,07",Pix,Variável,S,Pai
+1181,2026-03-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1722.75,Boleto,Fixa,Sim,Casal
+18,12/10/2023,Combustível,Posto Shell,Transporte,Combustível,"R$ 203,61",Cartão de crédito,Variável,Sim,Pai
+853,2025-07-13,Corrida de aplicativo,Uber,Transporte,Aplicativo,"48,73",Cartão de crédito,Variável,nao,Filho 1
+677,2025-02-28,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,336.00,Pix,Fixa,N,Casal
+1395,2026-08-23,Aniversário Filho 2,Buffet Infantil / Mercado,Presentes,Aniversários,"1316,83",Cartão de crédito,Variável,Não,Filho 2
+248,15/04/2024,Conta de energia,Companhia de Energia,Moradia,Energia,238.23,Débito automático,Variável,S,Casal
+711,17/03/2025,Padaria,Padaria Pão Quente,Alimentação,Padaria,42.51,Cartão de débito,Variável,Sim,Mãe
+606,2025-01-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,"549,53",Boleto,Fixa,S,Casal
+931,2025-09-10,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,201.13,Cartão de crédito,Variável,Sim,Filho 2
+903,2025-08-18,Conta de água,Companhia de Saneamento,Moradia,Água,117.10,Débito automático,Variável,S,Casal
+35,2023-11-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,285.00,Cartão de crédito,Fixa,Sim,
+47,2023-11-08,Compras de supermercado,Mercado do Bairro,alimentação,Supermercado,220.39,Cartão de crédito,Variável,Sim,Casal
+744,2025-04-15,Conta de energia,Companhia de Energia,moradia,Energia,239.24,Débito automático,Variável,Sim,Casal
+1061,2025-12-18,Padaria,Padaria Pão Quente,Alimentação,Padaria,28.51,Cartão de débito,Variável,Sim,Mãe
+984,2025-10-20,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,56.20,Pix,Variável,S,Casal
+592,2025-01-01,Compras de supermercado,Atacadão,Alimentação,Supermercado,214.54,Cartão de crédito,Variável,Sim,Casal
+1139,2026-02-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,Sim,
+844,2025-07-08,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,112.36,PIX,Variável,S,
+1323,2026-07-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2425.50,Boleto,Fixa,Sim,Casal
+1244,05-05-26,Pizza,Restaurante Sabor,Alimentacao,Restaurantes e delivery,"R$ 179,07",,Variável,Não,Mãe
+771,09/05/2025,Troca do pneu e alinhamento,Oficina Auto Center,Transporte,Manutenção do carro,1980.00,Cartão de crédito,Variável,Sim,Pai
+178,2024-02-20,Compras de supermercado,Atacadão,Alimentação,SUPERMERCADO,61.17,Cartão de crédito,Variável,Sim,Casal
+446,2024-09-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,cartão de crédito,Fixa,Não,Casal
+1306,2026-06-18,Acessórios,Riachuelo,Vestuário,Roupas e calçados,"R$ 475,33",Cartão de crédito,Variável,N,Filho 2
+202,2024-03-09,Compras de supermercado,Atacadão,Alimentação,Supermercado,99.32,Pix,Variável,Sim,Casal
+471,2024-10-07,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,Não,
+567,2024-12-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,Sim,Pai
+1212,2026-04-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,134.72,Cartão de crédito,Fixa,sim,Casal
+326,2024-06-15,Restaurante,iFood,Alimentação,Restaurantes e delivery,"50,65",Cartão de crédito,Variável,Não,Pai
+615,2025-01-12,Corrida de aplicativo,Uber,Transporte,Aplicativo,"R$ 30,86",Cartão de crédito,Variável,nao,Filho 1
+1312,25/06/2026,Delivery,iFood,Alimentação,Restaurantes e delivery,159.56,Pix,Variável,nao,Pai
+25,2023-10-18,Hambúrguer,Sushi Kai,Alimentacao,Restaurantes e delivery,"173,39",Pix,Variável,Não,Pai
+105,2023-12-20,Corrida de aplicativo,Uber,Transporte,Aplicativo,16.43,Cartão de crédito,Variável,Não,mãe
+276,2024-05-07,Streaming de música,Spotify,Lazer,ASSINATURAS,"R$ 34,90",Cartão de crédito,Fixa,nao,Filho 1
+1070,2025-12-25,Padaria,Padaria Pão Quente,Alimentação,Padaria,60.43,Pix,Variável,sim,Mãe
+648,07/02/2025,Material escolar e uniformes,Papelaria Escolar,Educação,Material escolar,1230.45,Cartão de crédito,Variável,Sim,Filho 1
+203,10/03/2024,Condomínio,Condomínio Residencial,Moradia,Condomínio,529.62,Boleto,Fixa,Sim,Casal
+846,10-07-25,Condomínio,Condomínio Residencial,Moradia,Condomínio,561.66,Boleto,Fixa,Sim,Casal
+157,2024-02-07,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,N,Filho 1
+1010,12-11-25,Plano celular pai,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,sim,Pai
+958,2025-10-05,Padaria,Padaria Pão Quente,Alimentação,Padaria,52.17,Pix,Variável,Sim,Mãe
+975,2025-10-15,Conta de energia,Companhia de Energia, Moradia ,Energia,"R$ 248,19",Débito automático,Variável,Sim,Casal
+1368,2026-08-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2425.50,Boleto,Fixa,Sim,Casal
+553,04/12/2024,Feira / hortifrúti,Feira Livre, Alimentação ,Hortifruti,85.66,pix,Variável,Sim,Mãe
+260,2024-04-22,Compras de supermercado,Atacadão,Alimentação,Supermercado,188.05,Pix,Variável,S,Casal
+156,2024-02-07,Material escolar e uniformes,Papelaria Escolar,Educação,MATERIAL ESCOLAR,878.23,Cartão de crédito,Variável,sim,Filho 1
+1275,28/05/2026,Padaria,Padaria Pão Quente,Alimentação,Padaria,47.88,Cartão de débito,Variável,S,pai
+1317,03-07-26,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,Cartao de credito,Fixa,Não,Casal
+100,2023-12-18,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,129.47,Pix,Variável,sim,Mãe
+582,2024-12-22,Exames laboratoriais,Odonto Sorriso,Saúde,Consultas e exames,348.40,Pix,Variável,Sim,Filho 1
+874,2025-07-30,Diarista (2x no mês),Diarista Maria, Moradia ,Serviços domésticos,"R$ 336,00",Pix,Fixa,Não,Casal
+482,2024-10-12,Plano celular mãe,Operadora Móvel,COMUNICAÇÃO,Celular,"73,40",Cartão de crédito,Fixa,Sim,Mãe
+169,2024-02-15,Restaurante,Pizzaria Napoli,Alimentação,Restaurantes e delivery,120.90,Cartão de crédito,Variável,N,Casal
+1304,2026-06-18,Conta de água,Companhia de Saneamento,Moradia,Água,133.31,Débito automático,Variável,Sim,Casal
+1378,2026-08-11,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,131.69,Pix,Variável,Sim,Mãe
+357,2024-07-08,Viagem de férias (passagens/gasolina),Companhia Aérea, Viagens ,Transporte da viagem,2415.72,Cartão de crédito,Variável,N,Casal
+583,23/12/2024,Sushi,iFood,Alimentacao,Restaurantes e delivery,118.17,Cartão de crédito,Variável,Não,Mãe
+961,2025-10-05,Mensalidade escolar,Colégio Horizonte,educação,Mensalidade escolar,1609.63,Boleto,Fixa,Sim,Filho 1
+1140,12/02/2026,Plano celular pai,Operadora Móvel,Comunicação,Celular,77.06,cartão de crédito,Fixa,Sim,Pai
+317,2024-06-09,Combustível,Posto Ipiranga,Transporte,Combustível,223.43,Cartão de débito,Variável,S,Pai
+1372,2026-08-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,134.72,Cartão de crédito,Fixa,sim,Casal
+1435,2026-09-23,Delivery,Restaurante Sabor,Alimentação,Restaurantes e delivery,"124,44",Cartão de crédito,Variável,Não,Mãe
+930,10/09/2025,Parque,Steam,Lazer,Entretenimento,84.82,Cartão de crédito,Variável,não,Casal
+603,2025-01-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,127.09,Cartão de crédito,Fixa,Sim,Casal
+515,10/11/2024,Compras de supermercado,Mercado do Bairro, Alimentação ,Supermercado,91.79,Cartão de crédito,Variável,S,Casal
+1135,2026-02-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,576.41,Boleto,Fixa,Sim,Casal
+684,2025-03-03,Streaming de vídeo,Netflix,lazer, Assinaturas ,44.90,Cartão de crédito,Fixa,nao,Casal
+1364,05/08/2026,Hambúrguer,Sushi Kai,Alimentação,Restaurantes e delivery,176.31,cartão de crédito,Variável,não,Mãe
+651,08-02-25,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,97.62,Cartão de crédito,Variável,sim,Casal
+1219,2026-04-11,Combustível,Posto Ipiranga,Transporte,Combustível,166.03,Cartão de débito,Variável,Sim,Pai
+138,2024-01-21,Padaria,Padaria Pão Quente,Alimentação,Padaria,,Cartão de débito,Variável,Sim,Pai
+1262,14/05/2026,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,108.93,Pix,Variável,S,
+932,2025-09-11,Hambúrguer,iFood,alimentação,Restaurantes e delivery,63.41,Pix,Variável,N,Filho 1
+188,01-03-24,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,278.42,Cartão de crédito,Variável,Sim,Casal
+1294,2026-06-10,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,76.41,Cartão de débito,Variável,S,Casal
+1113,2026-01-21,Combustível,Posto Ipiranga,Transporte,Combustível,"207,77",Cartão de crédito,Variável,Sim,Pai
+673,2025-02-23,Combustível,Posto Shell,Transporte,Combustível,236.45,Cartão de débito,Variável,Sim,Pai
+702,2025-03-12,Plano celular mãe,Operadora Móvel,COMUNICAÇÃO,Celular,73.40,Cartão de crédito,Fixa,sim,Mãe
+485,2024-10-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,"R$ 34,90",cartão de crédito,Fixa,Não,Casal
+1059,18/12/2025,Corrida de aplicativo,Uber,Transporte,Aplicativo,37.02,Cartão de crédito,Variável,N,Filho 1
+292,2024-05-16,Compras de supermercado,Atacadão,Alimentação,Supermercado,138.62,Cartão de débito,Variável,sim,Casal
+714,18/03/2025,Corrida de aplicativo,Uber,Transporte,Aplicativo,48.88,Cartão de crédito,Variável,Não,Mae
+1119,2026-02-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,314.21,Cartão de crédito,Fixa,Sim,Pai
+1054,14/12/2025,Streaming de filmes e séries,Max,Lazer,Assinaturas,"34,90",Cartão de crédito,Fixa,não,Casal
+1157,25/02/2026,Corrida de aplicativo,Uber,Transporte,Aplicativo,47.36,Cartão de crédito,Variável,Não,Filho 1
+514,2024-11-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,"R$ 127,09",Cartão de crédito,Fixa,Sim,Casal
+928,2025-09-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,Sim,Casal
+916,04/09/2025,Combustível,Posto Shell,Transporte,Combustível,"R$ 190,49",Cartão de crédito,Variável,Sim,Pai
+817,12/06/2025,Plano celular pai,Operadora Móvel,Comunicação,Celular,"R$ 73,40",Cartão de crédito,Fixa,Sim,Pai
+691,2025-03-07,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Filho 1
+1138,2026-02-12,Corrida de aplicativo,Uber,Transporte,Aplicativo,23.08,Cartão de crédito,Variável,N,Filho 1
+243,2024-04-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,531.60,Boleto,Fixa,Sim,Casal
+840,2025-07-06,Academia,SmartFit,Saúde,Academia,124.70,cartão de crédito,Fixa,Não,Mãe
+999,2025-11-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2425.50,Boleto,Fixa,sim,Casal
+242,2024-04-10,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,177.03,Pix,Variável,S,Casal
+731,08/04/2025,Internet fibra 500MB,Provedor Net,Comunicação,Internet,127.09,Cartão de crédito,Fixa,S,Casal
+269,2024-05-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,"R$ 39,90",Cartão de crédito,Fixa,Não,Casal
+1067,2025-12-23,Hambúrguer,Pizzaria Napoli,ALIMENTAÇÃO,Restaurantes e delivery,222.29,Pix,Variável,N,Filho 1
+1046,10-12-25,Condomínio,Condomínio Residencial,Moradia,Condomínio,572.11,Boleto,Fixa,Sim,casal
+1087,2026-01-06,Academia,SmartFit,Saúde,Academia,129.68,Cartão de crédito,Fixa,Não,Mãe
+1051,12-12-25,Plano celular pai,Operadora Móvel,Comunicação,CELULAR,"77,06",Cartão de crédito,Fixa,Sim,Pai
+981,18/10/2025,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,92.48,Pix,Variável,Sim,Mãe
+1102,2026-01-12,Combustível,Posto Ipiranga,Transporte,Combustível,177.03,,Variável,S,Pai
+1164,01/03/2026,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,314.21,Cartão de crédito,Fixa,Sim,Pai
+1269,21/05/2026,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,152.92,Cartao de debito,Variável,Sim,Casal
+818,12-06-25,Padaria,Padaria Pão Quente,Alimentação,Padaria,69.59,Cartão de débito,Variável,Sim,Mãe
+649,07/02/2025,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,nao,Filho 1
+24,2023-10-18,Conta de água,Companhia de Saneamento,Moradia,Água,104.08,Débito automático,Variável,S,Casal
+172,17-02-24,Jogo de videogame,Steam,Lazer,Entretenimento,277.36,Cartão de crédito,Variável,Não,Filho 2
+1137,2026-02-11,Feira / hortifrúti,Feira Livre,ALIMENTAÇÃO,Hortifruti,118.24,Pix,Variável,S,Mãe
+43,05/11/2023,Mensalidade escolar,Colégio Horizonte,Educação,mensalidade escolar,1380.00,Boleto,Fixa,Sim,Filho1
+213,2024-03-18,Notebook novo (parcela 1/6),Kabum,Compras,Eletrônicos e eletrodomésticos,650.00,Cartão de crédito,Variável,Não,Filho 1
+1403,2026-09-01,Roupas,Loja Renner,Vestuário,Roupas e calçados,503.49,Cartão de crédito,Variável,não,Filho 2
+143,26/01/2024,Roupas,Centauro,Vestuário,Roupas e calçados,"433,65",Cartão de crédito,Variável,nao,Filho 2
+1063,2025-12-20,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,48.24,pix,Variável,Sim,Casal
+340,2024-06-27,Corrida de aplicativo,Uber,Transporte,Aplicativo,"14,51",Cartão de crédito,Variável,Não,Filho 1
+83,2023-12-07,Corte de cabelo,Drogaria,Cuidados pessoais,Higiene e beleza,227.99,PIX,Variável,Não,Pai
+1436,24/09/2026,Padaria,Padaria Pão Quente,ALIMENTAÇÃO,Padaria,73.11,Pix,Variável,Sim,Pai
+722,03/04/2025,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,Cartao de credito,Fixa,N,Casal
+1407,2026-09-04,Hambúrguer,iFood,Alimentação,Restaurantes e delivery,113.04,Pix,Variável,Não,Casal
+129,2024-01-14,Ração e petiscos,Pet Shop Amigo Fiel,pets,Ração,196.35,Cartão de crédito,Variável,S,Filho 2
+87,2023-12-10,Condomínio,Condomínio Residencial,Moradia,Condomínio,523.84,Boleto,Fixa,Sim,Casal
+658,12/02/2025,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,190.04,Cartão de crédito,Variável,Sim,Filho 2
+278,2024-05-08,Padaria,Padaria Pão Quente,Alimentação,Padaria,24.18,Cartão de débito,Variável,S,Pai
+217,2024-03-20,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,162.46,Cartão de crédito,Variável,sim,Filho 2
+749,18-04-25,Hambúrguer,Restaurante Sabor,Alimentação,Restaurantes e delivery,129.47,Pix,Variável,Não,Pai
+570,2024-12-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Casal
+1301,15/06/2026,Hambúrguer,Pizzaria Napoli,Alimentação,Restaurantes e delivery,187.11,Cartão de crédito,Variável,nao,Pai
+1223,2026-04-13,Hambúrguer,Restaurante Sabor,Alimentacao,Restaurantes e delivery,138.38,Pix,Variável,não,Mãe
+322,2024-06-12,Plano celular mãe,Operadora Móvel, Comunicação ,Celular,"R$ 69,90",Cartão de crédito,Fixa,Sim,Mãe
+418,2024-08-26,Delivery,Restaurante Sabor,Alimentação,Restaurantes e delivery,191.54,Cartão de crédito,Variável,N,Pai
+598,2025-01-05,Mensalidade de inglês,Escola de Idiomas,Educação, Cursos ,445.20,Boleto,Fixa,nao,Filho2
+436,2024-09-06,Academia,SmartFit,Saúde,Academia,119.90,Cartão de crédito,Fixa,Não,Mãe
+886,2025-08-07,Streaming de música,Spotify,Lazer,Assinaturas,40.90,Cartão de crédito,Fixa,não,Filho 1
+1234,25/04/2026,Combustível,Posto Ipiranga,Transporte,Combustível,183.77,Cartão de crédito,Variável,Sim,Pai
+793,2025-05-23,Pizza,iFood,Alimentação,Restaurantes e delivery,162.77,Pix,Variável,Não,pai
+481,2024-10-12,Delivery,Pizzaria Napoli,Alimentação,Restaurantes e delivery,178.85,Pix,Variável,não,Casal
+221,2024-03-23,Calçados,Loja Renner,Vestuário,Roupas e calçados,322.70,Cartão de crédito,Variável,Não,Mãe
+1408,05/09/2026,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,"R$ 1.738,40",Boleto,Fixa,Sim,Filho 1
+978,2025-10-15,Compras de supermercado,Atacadão,Alimentação,Supermercado,122.48,Cartão de crédito,Variável,Sim,Casal
+796,2025-05-27,Show/ingressos,Sympla,Lazer,Entretenimento,232.55,Cartão de crédito,Variável,não,Filho 2
+397,2024-08-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1450.00,Boleto,Fixa,sim,Casal
+179,2024-02-20,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,52.31,Pix,Variável,sim,Casal
+925,2025-09-09,Pizza,Restaurante Sabor,alimentação,Restaurantes e delivery,161.27,Cartão de crédito,Variável,Não,Filho 1
+1018,2025-11-16,Combustível,Posto Shell,Transporte,Combustível,231.24,Cartao de debito,Variável,S,Pai
+461,2024-10-03,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,"R$ 424,46",Pix,Variável,Sim,Casal
+1031,2025-11-27,Higiene pessoal,Barbearia Clássica,Cuidados pessoais,Higiene e beleza,137.56,Pix,Variável,nao,Mãe
+1362,2026-08-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,"44,90",Cartão de crédito,Fixa,Não,Casal
+868,24/07/2025,Combustível,Posto Ipiranga,Transporte,Combustível,177.75,Cartão de crédito,Variável,S,Pai
+379,21/07/2024,Compras de supermercado,Atacadão,Alimentação,Supermercado,191.26,Pix,Variável,Sim,Casal
+363,2024-07-10,Condomínio,Condomínio Residencial,moradia,Condomínio,537.47,Boleto,Fixa,Sim,Casal
+836,2025-07-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,44.90,CARTÃO DE CRÉDITO,Fixa,N,Casal
+1321,2026-07-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1738.40,Boleto,Fixa,Sim,Filho1
+561,2024-12-10,Condomínio,Condomínio Residencial,moradia,Condomínio,547.48,Boleto,Fixa,Sim,Casal
+173,18/02/2024,Conta de água,Companhia de Saneamento,Moradia,Água,116.94,Débito automático,Variável,S,Casal
+124,2024-01-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1450.00,Boleto,Fixa,Sim,Casal
+1142,14/02/2026,Material escolar e uniformes,Papelaria Escolar,Educação,Material escolar,"R$ 1.233,98",Cartão de crédito,Variável,Sim,Filho 1
+745,2025-04-15,Sushi,Burger House,Alimentação,Restaurantes e delivery,132.70,Pix,Variável,Não,Filho 1
+1146,2026-02-15,Conta de energia,Companhia de Energia,Moradia,Energia,344.60,Débito automático,Variável,Sim,casal
+215,19/03/2024,Cinema,Parque da Cidade,Lazer,Entretenimento,193.22,Cartão de crédito,Variável,nao,Filho 1
+453,19/09/2024,Compras de supermercado,Atacadão,alimentação,Supermercado,191.50,Cartão de débito,Variável,Sim,Casal
+448,2024-09-15,Conta de energia,Companhia de Energia,Moradia,Energia,222.90,Débito automático,Variável,Sim,Casal
+809,2025-06-07,Streaming de música,Spotify,Lazer, Assinaturas ,"R$ 40,90",Cartão de crédito,Fixa,nao,Filho 1
+759,2025-05-01,Compras de supermercado,Supermercado Bom Preço,Alimentacao,Supermercado,"310,07",Pix,Variável,S,Casal
+253,2024-04-18,Conta de água,Companhia de Saneamento,Moradia,Água,106.78,Débito automático,Variável,S,Casal
+404,2024-08-14,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,195.36,Cartao de debito,Variável,Sim,Casal
+820,2025-06-14,Streaming de filmes e séries,Max, Lazer ,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Casal
+358,2024-07-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,"R$ 119,90",,Fixa,S,Casal
+1296,2026-06-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,77.06,Cartão de crédito,Fixa,Sim,Pai
+435,2024-09-06,Hambúrguer,iFood,Alimentação,Restaurantes e delivery,66.00,Pix,Variável,Não,Casal
+804,2025-06-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,Boleto,Fixa,S,Casal
+637,02-02-25,Cinema,Cinemark,Lazer,Entretenimento,54.97,Cartão de crédito,Variável,nao,Filho 2
+11,2023-10-07,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,nao,Filho 1
+830,25/06/2025,Compras de supermercado,Atacadão,Alimentacao,Supermercado,"R$ 225,50",Cartão de débito,Variável,Sim,Casal
+55,2023-11-15,Conta de energia,Companhia de Energia,Moradia,Energia,235.81,Débito automático,Variável,sim,Casal
+1224,2026-04-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,não,Casal
+1032,28/11/2025,Compras Black Friday (eletro),Magazine Luiza,Compras,Eletrônicos e eletrodomésticos,1432.27,Cartão de crédito,Variável,N,Casal
+355,2024-07-07,Streaming de música,Spotify,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,não,Filho 1
+141,2024-01-22,Combustível,Posto Shell,Transporte,Combustível,"R$ 159,60",Cartão de débito,Variável,Sim,Pai
+3,2023-10-03,Padaria,Padaria Pão Quente,Alimentação,Padaria,35.86,Cartão de débito,Variável,Sim,Mãe
+991,2025-10-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,"R$ 352,80",Pix,Fixa,N,Casal
+643,05/02/2025,Show/ingressos,Parque da Cidade,Lazer,Entretenimento,274.79,Cartão de crédito,Variável,N,Filho 2
+907,2025-08-23,Corrida de aplicativo,Uber,Transporte,Aplicativo,"23,50",,Variável,Não,Mãe
+206,2024-03-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,S,Pai
+1039,2025-12-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2425.50,Boleto,Fixa,Sim,Casal
+1322,2026-07-05,Mensalidade de inglês,Escola de Idiomas,EDUCAÇÃO,Cursos,"R$ 500,23",Boleto,Fixa,nao,Filho 2
+153,2024-02-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,445.20,Boleto,Fixa,Não,Filho 2
+801,03/06/2025,Padaria,Padaria Pão Quente,Alimentação,Padaria,"53,91",Pix,Variável,sim,Mãe
+866,2025-07-22,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,227.53,Cartão de crédito,Variável,Sim,Casal
+1305,2026-06-18,Delivery,Restaurante Sabor,ALIMENTAÇÃO,Restaurantes e delivery,184.07,pix,Variável,Não,Filho 1
+185,28-02-24,Combustível,Posto Ipiranga,Transporte,Combustível,"R$ 188,61",Cartão de crédito,Variável,sim,Pai
+193,2024-03-05,Mensalidade escolar,Colégio Horizonte,EDUCAÇÃO,Mensalidade escolar,1490.40,Boleto,Fixa,S,Filho 1
+798,2025-05-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,"336,00",pix,Fixa,não,Casal
+420,27-08-24,Padaria,Padaria Pão Quente,Alimentação,Padaria,26.70,Cartão de débito,Variável,sim,Mãe
+562,2024-12-10,Presentes de Natal,Shopping / Lojas online,Presentes,Natal,1336.97,Cartão de crédito,Variável,Não,Casal
+477,10/10/2024,Condomínio,Condomínio Residencial,Moradia,Condomínio,543.47,Boleto,Fixa,Sim,casal
+717,2025-03-25,Compras de supermercado,Atacadão,Alimentação,Supermercado,87.85,Cartão de crédito,Variável,sim,Casal
+1175,2026-03-06,Restaurante,Restaurante Sabor,Alimentação,restaurantes e delivery,100.70,cartão de crédito,Variável,nao,Mãe
+810,08/06/2025,Internet fibra 500MB,Provedor Net,Comunicação,Internet,127.09,Cartão de crédito,Fixa,Sim,casal
+419,2024-08-26,Padaria,Padaria Pão Quente,Alimentação,Padaria,44.98,Cartão de débito,Variável,Sim,Mãe
+777,12-05-25,Jogo de videogame,Steam,Lazer,Entretenimento,254.01,Cartão de crédito,Variável,N,Filho 2
+753,2025-04-24,Calçados,C&A,Vestuário,Roupas e calçados,107.16,Cartão de crédito,Variável,Não,Mãe
+703,2025-03-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,73.40,Cartao de credito,Fixa,Sim,Pai
+455,2024-09-24,Delivery,Restaurante Sabor,Alimentação,Restaurantes e delivery,114.55,Pix,Variável,nao,Casal
+963,07/10/2025,Streaming de música,Spotify,Lazer,ASSINATURAS,"R$ 40,90",Cartão de crédito,Fixa,Não,Filho 1
+1186,2026-03-13,Conserto mecânico,Oficina Auto Center,Transporte,Manutenção do carro,954.58,Cartão de crédito,Variável,S,Pai
+587,2024-12-26,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,242.42,Cartão de crédito,Variável,Sim,Casal
+1020,2025-11-18,Conta de água,Companhia de Saneamento, Moradia ,água,"122,11",Débito automático,Variável,Sim,Casal
+1169,2026-03-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,500.23,Boleto,Fixa,Não,Filho 2
+1194,2026-03-22,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,180.13,Pix,Variável,S,Casal
+929,2025-09-10,Compras de supermercado,Mercado do Bairro,alimentação,Supermercado,107.16,Pix,Variável,Sim,Casal
+1410,2026-09-05,Aluguel,Imobiliária Central,moradia,Aluguel,2425.50,Boleto,Fixa,Sim,Casal
+382,2024-07-30,Diarista (2x no mês),Diarista Maria,Moradia, Serviços domésticos ,320.00,Pix,Fixa,Não,Casal
+571,2024-12-14,Combustível,Posto Shell,Transporte,Combustível,197.97,Cartão de crédito,Variável,Sim,Pai
+1172,05/03/2026,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1738.40,Boleto,Fixa,Sim,Filho 1
+912,30/08/2025,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,336.00,Pix,Fixa,nao,Casal
+680,2025-03-01,Seguro do carro (parcela),Porto Seguro,Transporte,Seguro auto,299.25,Cartão de crédito,Fixa,Sim,Pai
+1245,2026-05-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,500.23,Boleto,Fixa,N,Filho 2
+175,18/02/2024,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,93.02,Pix,Variável,S,Mãe
+1292,2026-06-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1722.75,Boleto,Fixa,Sim,Casal
+1100,2026-01-12,Combustível,Posto Ipiranga,Transporte,Combustível,173.51,Cartão de débito,Variável,Sim,pai
+484,2024-10-13,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,78.30,Pix,Variável,S,Casal
+660,14/02/2025,Streaming de filmes e séries,Max,Lazer,Assinaturas,"34,90",Cartão de crédito,Fixa,Não,Casal
+835,2025-07-02,Compras de supermercado,Atacadão, Alimentação ,Supermercado,556.40,Cartão de crédito,Variável,Sim,Casal
+768,2025-05-07,Streaming de música,Spotify,LAZER,Assinaturas,34.90,Cartão de crédito,Fixa,N,Filho 1
+7,2023-10-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,"420,00",Boleto,Fixa,N,Filho 2
+1251,2026-05-07,Streaming de música,Spotify,Lazer,Assinaturas,40.90,Cartão de crédito,Fixa,não,Filho 1
+1240,2026-05-03,Higiene pessoal,Salão Beleza,Cuidados pessoais,Higiene e beleza,175.66,Cartão de débito,Variável,Não,Pai
+99,18-12-23,Conta de água,Companhia de Saneamento,Moradia,Água,"R$ 107,33",Débito automático,Variável,sim,Casal
+1273,2026-05-26,Corrida de aplicativo,Uber,Transporte,Aplicativo,19.80,Cartão de crédito,Variável,nao,Mãe
+789,2025-05-20,Compras de supermercado,Mercado do Bairro,alimentação,Supermercado,199.51,Cartão de crédito,Variável,sim,casal
+106,2023-12-22,Parque,Sympla,Lazer,Entretenimento,109.87,Cartão de crédito,Variável,Não,Casal
+757,2025-04-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,"R$ 336,00",Pix,Fixa,Não,Casal
+952,2025-09-28,Exames laboratoriais,Clínica Vida,Saúde,Consultas e exames,686.37,Pix,Variável,Sim,Mãe
+762,2025-05-05,Mensalidade escolar,Colégio Horizonte, Educação ,Mensalidade escolar,"1609,63",Boleto,Fixa,Sim,Filho 1
+119,06/01/2024,Academia,SmartFit,Saúde,Academia,119.90,Cartão de crédito,Fixa,N,Mãe
+207,2024-03-12,Combustível,Posto Shell,Transporte,Combustível,157.73,Cartão de crédito,Variável,Sim,Pai
+113,2024-01-03,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,411.61,Cartão de débito,Variável,Sim,Casal
+529,2024-11-15,Sushi,Sushi Kai,Alimentação,RESTAURANTES E DELIVERY,115.49,Pix,Variável,Não,Mãe
+305,30/05/2024,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,320.00,Pix,Fixa,Não,casal
+1428,2026-09-18,Conta de água,Companhia de Saneamento,Moradia,Água,"R$ 131,66",Débito automático,Variável,Sim,Casal
+20,2023-10-12,Plano celular pai,Operadora Móvel, Comunicação ,Celular,"69,90",Cartão de crédito,Fixa,Sim,Pai
+427,2024-09-03,Streaming de vídeo,Netflix,Lazer,Assinaturas,"39,90",Cartão de crédito,Fixa,N,Casal
+743,2025-04-14,Streaming de filmes e séries,Max,Lazer,Assinaturas,34.90,Cartão de crédito,Fixa,Não,Casal
+8,2023-10-05,Mensalidade escolar,Colégio Horizonte,educação,Mensalidade escolar,1380.00,Boleto,Fixa,Sim,Filho 1
+995,04/11/2025,Compras de supermercado,Atacadão,Alimentação,Supermercado,320.69,Cartão de débito,Variável,Sim,Casal
+842,07/07/2025,Streaming de música,Spotify,Lazer,Assinaturas,40.90,Cartão de crédito,Fixa,N,Filho 1
+1185,2026-03-13,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,81.84,Cartão de débito,Variável,S,Casal
+352,05/07/2024,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1490.40,BOLETO,Fixa,Sim,Filho 1
+1071,2025-12-26,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,234.80,Pix,Variável,sim,Casal
+635,2025-01-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,"R$ 336,00",Pix,Fixa,N,Casal
+424,2024-08-30,Diarista (2x no mês),Diarista Maria,Moradia,Serviços domésticos,320.00,Pix,Fixa,Não,Casal
+1335,2026-07-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1722.75,Boleto,Fixa,Sim,Casal
+451,17/09/2024,Ração e petiscos,Pet Shop Amigo Fiel,Pets,Ração,171.21,Cartão de crédito,Variável,Sim,Filho 2
+1388,2026-08-16,Combustível,Posto Ipiranga,Transporte,Combustível,"209,51",Cartão de débito,Variável,S,Pai
+1318,04/07/2026,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,422.69,Cartão de débito,Variável,Sim,Casal
+1430,2026-09-18,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,121.02,Pix,Variável,Sim,mãe
+1242,2026-05-04,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,520.42,cartão de crédito,Variável,sim,Casal
+1401,2026-08-30,Diarista (2x no mês),Diarista Maria,moradia,Serviços domésticos,352.80,Pix,Fixa,Não,Casal
+1148,2026-02-18,Roupas infantis,Loja Renner,Vestuário,Roupas e calçados,510.34,CARTÃO DE CRÉDITO,Variável,Não,Pai
+200,08/03/2024,Hambúrguer,Restaurante Sabor,Alimentação,Restaurantes e delivery,117.55,Pix,Variável,Não,Mãe
+423,2024-08-28,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,67.79,Cartão de débito,Variável,S,Casal
+1027,2025-11-25,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,141.12,Cartão de débito,Variável,S,Casal
+942,2025-09-16,Padaria,Padaria Pão Quente,Alimentação,Padaria,31.26,Cartão de débito,Variável,sim,Mãe
+560,2024-12-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,127.09,Cartão de crédito,Fixa,Sim,casal
+736,2025-04-11,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,98.24,Pix,Variável,Sim,Mãe
+29,2023-10-20,Combustível,Posto Ipiranga,Transporte,Combustível,"R$ 192,73",Cartão de crédito,Variável,Sim,Pai
+989,2025-10-26,Corrida de aplicativo,Uber,Transporte,Aplicativo,31.27,Cartao de credito,Variável,nao,Mãe
+713,2025-03-18,Delivery,iFood,Alimentação,Restaurantes e delivery,114.40,Pix,Variável,não,Mãe
+534,2024-11-18,Conta de água,Companhia de Saneamento,Moradia,Água,126.48,Débito automático,Variável,Sim,Casal
+686,2025-03-05,Aluguel,Imobiliária Central,Moradia,Aluguel,2310.00,Boleto,Fixa,Sim,Casal
+1045,2025-12-08,Internet fibra 500MB,Provedor Net,Comunicação,Internet,"R$ 134,72",Cartão de crédito,Fixa,S,Casal
+1056,2025-12-15,Conta de energia,Companhia de Energia,Moradia,Energia,279.51,Débito automático,Variável,sim,Casal
+599,2025-01-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1490.40,Boleto,Fixa,Sim,filho 1
+576,18/12/2024,Conta de água,Companhia de Saneamento, Moradia ,Água,129.04,Débito automático,Variável,Sim,Casal
+492,2024-10-19,Pizza,Restaurante Sabor,Alimentação,Restaurantes e delivery,175.11,Cartão de crédito,Variável,Não,Mãe
+348,2024-07-03,Acessórios,Riachuelo,Vestuário,Roupas e calçados,491.02,Cartão de crédito,Variável,Não,Filho 1
+1106,15/01/2026,IPVA 2026 (1/3),Detran,Transporte,IPVA,865.28,Boleto,Fixa,sim,Pai
+495,20/10/2024,Corrida de aplicativo,Uber,Transporte,Aplicativo,30.34,Cartão de crédito,Variável,não,Filho 1
+1406,2026-09-03,Lâmpadas e ferramentas,Leroy Merlin,Moradia,Manutenção da casa,"R$ 358,16",Cartão de crédito,Variável,Sim,Casal
+1034,01/12/2025,Seguro do carro (parcela),Porto Seguro,transporte,Seguro auto,"R$ 314,21",Cartao de credito,Fixa,S,Pai
+323,2024-06-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,69.90,Cartão de crédito,Fixa,sim,Pai
+411,2024-08-20,Gás de cozinha/encanado,Distribuidora de Gás,Moradia,Gás,48.73,Pix,Variável,Sim,Casal
+171,15/02/2024,Conta de energia,Companhia de Energia,moradia,energia,"R$ 294,43",Débito automático,Variável,S,Casal
+828,2025-06-24,Combustível,Posto Ipiranga,Transporte,COMBUSTÍVEL,"R$ 161,59",Cartão de débito,Variável,Sim,Pai
+950,28/09/2025,Compras de supermercado,Atacadão,Alimentação,Supermercado,199.19,Cartão de débito,Variável,Sim,Casal
+965,10/10/2025,Acessórios,Loja Renner,Vestuário,Roupas e calçados,138.08,Cartão de crédito,Variável,não,Mae
+564,2024-12-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1580.50,Boleto,Fixa,Sim,Casal
+778,2025-05-12,Plano celular mãe,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,sim,Mãe
+441,10/09/2024,Condomínio,Condomínio Residencial,Moradia,Condomínio,541.50,Boleto,Fixa,S,Casal
+350,05/07/2024,Aluguel,Imobiliária Central,Moradia,Aluguel,2200.00,Boleto,Fixa,Sim,Casal
+1127,05/02/2026,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,500.23,Boleto,Fixa,Não,Filho 2
+271,05/05/2024,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,445.20,Boleto,Fixa,Não,Filho 2
+1340,13/07/2026,Viagem de férias (hospedagem),Booking,Viagens,Hospedagem,"R$ 3.264,90",Cartao de credito,Variável,Não,Casal
+1379,2026-08-12,Plano celular pai,Operadora Móvel,COMUNICAÇÃO,Celular,"77,06",Cartão de crédito,Fixa,Sim,Pai
+1374,09/08/2026,Padaria,Padaria Pão Quente,Alimentação,Padaria,"R$ 68,68",Cartão de débito,Variável,Sim,Mãe
+144,27-01-24,Material de manutenção,Loja de Utilidades,moradia,manutenção da casa,"R$ 157,71",Cartão de crédito,Variável,S,Casal
+1086,2026-01-05,Mensalidade de inglês,Escola de Idiomas,Educação,Cursos,471.91,Boleto,Fixa,nao,Filho 2
+270,2024-05-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,"R$ 1.490,40",boleto,Fixa,Sim,Filho 1
+621,2025-01-15,Conta de energia,Companhia de Energia,Moradia,energia,291.14,Débito automático,Variável,Sim,Casal
+668,2025-02-20,Delivery,iFood,Alimentação,Restaurantes e delivery,95.30,Pix,Variável,não,Filho 1
+459,01/10/2024,Seguro do carro (parcela),Porto Seguro,transporte,Seguro auto,299.25,Cartão de crédito,Fixa,S,Pai
+116,2024-01-05,Mensalidade escolar,Colégio Horizonte,Educação,Mensalidade escolar,1380.00,Boleto,Fixa,Sim,Filho 1
+829,25/06/2025,Delivery,Burger House,Alimentação,Restaurantes e delivery,120.68,Pix,Variável,Não,Filho 1
+1110,2026-01-20,Licenciamento anual,Detran,Transporte,Licenciamento,194.69,Boleto,Fixa,Sim,Pai
+49,10/11/2023,Condomínio,Condomínio Residencial,Moradia,Condomínio,521.95,Boleto,Fixa,Sim,Casal
+1385,2026-08-15,Compras de supermercado,Supermercado Bom Preço,Alimentação,Supermercado,"R$ 196,88",Cartão de débito,Variável,sim,Casal
+852,2025-07-12,Plano celular pai,Operadora Móvel,Comunicação,Celular,73.40,Cartão de crédito,Fixa,Sim,Pai
+137,2024-01-20,Licenciamento anual,Detran,Transporte,Licenciamento,180.00,Boleto,Fixa,Sim,Pai
+987,2025-10-25,Compras de supermercado,Mercado do Bairro,Alimentação,Supermercado,96.97,Cartão de crédito,Variável,S,Casal
+134,2024-01-18,Feira / hortifrúti,Feira Livre,Alimentação,Hortifruti,"R$ 131,15",Pix,Variável,Sim,Mãe
+362,2024-07-10,Plano de saúde família,Unimed,Saúde,Plano de saúde,1450.00,boleto,Fixa,Sim,Casal
+1365,2026-08-05,Padaria,Padaria Pão Quente,Alimentação, Padaria ,58.80,Cartão de débito,Variável,S,Mãe
+452,2024-09-18,Conta de água,Companhia de Saneamento,Moradia,Água,112.33,Débito automático,Variável,Sim,Casal
